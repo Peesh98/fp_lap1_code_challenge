@@ -16,6 +16,8 @@ body {
   background-position: top;
 }
 
+.top {
+}
 /* Navbar */
 
 .navbar {
@@ -180,22 +182,51 @@ body {
 /* Search Results */
 
 .container {
+  max-width: 600px;
   padding: 0px;
-  border: 0px;
   margin-left: 145px;
-  margin-right: 145px;
+  margin-right: auto;
+  float: left;
+  margin-bottom: 80px;
+}
+
+.containerbig {
+  margin-left: 700px;
+  margin-top: 28px;
+  text-align: center;
+  height: fit-content;
+}
+
+.images {
+  box-shadow: 0 4px 8px 0 rgba(170, 51, 106, 0.3);
+  transition: 0.3s;
+  border-radius: 10%;
+}
+
+.images:hover {
+  box-shadow: 0 8px 16px 0 rgba(170, 51, 106, 0.3);
+}
+
+table,
+th,
+td {
+  color: white;
 }
 
 /* Footer */
 
-.wrapper {
-  min-height: 100%;
-  display: grid;
-  grid-template-rows: auto 1fr auto;
-  position: sticky;
+#bottom {
+  margin: 0 auto;
+  position: absolute;
+  text-align: center;
+  box-sizing: border-box;
+  width: 100%;
+  z-index: 9999;
+  display: none;
+  left: 0px;
 }
 
-footer {
+span {
   background-image: url("./imgs/Sakura2.jpg");
   background-position: bottom;
   color: var(--white);
