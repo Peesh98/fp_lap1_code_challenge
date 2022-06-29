@@ -2,6 +2,7 @@ const axios = require('axios');
 const express = require('express');
 const app = express();
 const cors = require('cors');
+var path = require('path');
 
 app.use(cors());
 
@@ -12,12 +13,12 @@ app.get('/', (req, res) => {
 });
 
 app.get('/search', (req, res) => {
-    res.sendFile(__dirname + '/../client/search.html');
+    res.sendFile(path.resolve('../client/search.html'));
 });
 
-app.get('/searchResults', (req, res) => {
+app.get('/search/results', (req, res) => {
     const searchParams = new URLSearchParams ({
-        q: "dogs",
+        q: req.query.q,
         location: "Greater London, England, United Kingdom",
         google_domain: "google.co.uk",
         safe: "active",
@@ -30,19 +31,7 @@ app.get('/searchResults', (req, res) => {
     axios.get(`https://serpapi.com/search.json?${searchParams.toString()}`)
     .then(search_response => search_response.data)
     .then(data => res.json(data))
-    .catch(console.warn)
-    // getSearchResults()
-
-    // async function getSearchResults () {
-    //     try {
-    //         const search_response = await fetch(`https://serpapi.com/search.json?${searchParams.toString()}`);
-    //         const data = await search_response.data;
-    //         res.json(data);
-    //     } catch (err) {
-    //         console.warn(err);
-    //     }
-    // };
-    
+    .catch(console.warn);
 });
 
 module.exports = app;
