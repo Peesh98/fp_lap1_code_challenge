@@ -1,7 +1,7 @@
 function collectResultData() {
     const params = (new URL(document.location)).searchParams;
     // API request to get search result data
-    const dataUrl = `${window.location.origin}/requestResults?${params.toString()}`
+    const dataUrl = `${window.location.origin}/search/results?${params.toString()}`
     fetch(dataUrl)
     .then(res => res.json())
     // Use it to populate the webpage
