@@ -8,21 +8,12 @@
 }
 
 body {
-  background-color: var(--pink);
-  color: var(--white);
-  background-image: url("./imgs/Sakura2.jpg");
-  background-position: bottom;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  height: 100%;
-  background-size: cover;
+  background-color: rgba(170, 51, 106, 0.3);
 }
 
-/* Google Image */
-
-.google {
-  margin-top: 100px;
-  filter: drop-shadow(2px 2px 2px var(--pink));
+.background {
+  background-image: url("./imgs/Sakura2.jpg");
+  background-position: top;
 }
 
 /* Navbar */
@@ -31,6 +22,10 @@ body {
   color: var(--pink);
   padding: 2px;
   font-size: 14px;
+}
+
+.navbar-brand {
+  filter: drop-shadow(2px 2px 2px var(--pink));
 }
 
 .navbar-left {
@@ -106,17 +101,12 @@ body {
   color: var(--pink);
 }
 
-/* Search Bar and Buttons */
-
-#center {
-  text-align: center;
-  margin: 0 auto;
-  position: absolute;
-  top: 40%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+.cog {
+  filter: drop-shadow(2px 2px 2px var(--pink));
 }
+
+/* Search Bar */
+
 .bar {
   margin: 0 auto;
   width: 575px;
@@ -139,52 +129,78 @@ body {
   background: transparent;
   color: var(--white);
   text-shadow: 2px 2px var(--pink);
+  text-indent: 20px;
 }
 
 .search {
   height: 18px;
   position: relative;
-  top: -2px;
-  left: -3px;
+  top: -4px;
+  left: 10px;
   filter: drop-shadow(2px 2px 2px var(--pink));
 }
 
 .voice {
   height: 20px;
   position: relative;
-  top: -2px;
+  top: -4px;
   left: 3px;
   filter: drop-shadow(2px 2px 2px var(--pink));
 }
-.buttons {
-  margin-top: 30px;
+
+/* Second Navbar */
+
+.main-nav {
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+  width: 100%;
+  padding-bottom: 9px;
+  padding-left: 101px;
+  border-bottom: 1px solid white;
 }
-.button {
-  background-color: rgba(255, 255, 255, 0.9);
-  border: none;
-  color: var(--pink);
-  font-size: 15px;
-  padding: 10px 20px;
-  margin: 5px;
-  border-radius: 4px;
-  outline: none;
+
+.main-nav li {
+  display: inline;
+  font-size: 0.8em;
+  margin: 14px;
 }
-.button:hover {
-  border: 1px solid var(--pink);
-  padding: 9px 19px;
-  color: var(--pink);
+
+.main-nav a {
+  text-decoration: none;
+  color: white;
+  text-shadow: 2px 2px var(--pink);
 }
-.button:focus {
-  border: 1px solid var(--pink);
-  padding: 9px 19px;
+
+.main-nav a:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+/* Search Results */
+
+.container {
+  padding: 0px;
+  border: 0px;
+  margin-left: 145px;
+  margin-right: 145px;
 }
 
 /* Footer */
 
+.wrapper {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  position: sticky;
+}
+
 footer {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-image: url("./imgs/Sakura2.jpg");
+  background-position: bottom;
   color: var(--white);
   text-shadow: 2px 2px 2px var(--pink);
+  display: block;
   position: absolute;
   bottom: 0;
   width: 100%;
