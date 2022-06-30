@@ -1,154 +1,130 @@
 :root {
   --pink: #aa336a;
-  --white: #ffffff;
 }
 
 * {
   box-sizing: border-box;
+  color: white;
 }
 
 body {
   background-color: rgba(170, 51, 106, 0.3);
+  margin: 0;
 }
 
-.background {
-  background-image: url("./imgs/Sakura2.jpg");
-  background-position: top;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-size: 100% 100%;
-}
+/* Google Image and Search Bar */
 
-/* Navbar */
-
-.navbar {
-  color: var(--pink);
-  padding: 2px;
-  font-size: 14px;
-}
-
-.navbar-brand {
+.google {
+  width: 100px;
+  height: auto;
   filter: drop-shadow(2px 2px 2px var(--pink));
 }
-
-.navbar-left {
-  display: flex;
-  align-items: center;
-  margin-left: 25px;
-}
-
-.navbar-right {
-  display: flex;
-  align-items: center;
-  margin-top: 10px;
-}
-
-.images {
-  text-decoration: none;
-  color: var(--white);
-  text-shadow: 2px 2px 2px var(--pink);
-}
-
-.store {
-  text-decoration: none;
-  color: var(--white);
-  text-shadow: 2px 2px 2px var(--pink);
-}
-
-.gmail {
-  text-decoration: none;
-  margin-right: 10px;
-  color: var(--white);
-  text-shadow: 2px 2px 2px var(--pink);
-}
-.about {
-  text-decoration: none;
-  margin-right: 10px;
-  padding-right: 5px;
-  color: var(--white);
-  text-shadow: 2px 2px 2px var(--pink);
-}
-
-.about:hover,
-.store:hover {
-  color: var(--white);
-  text-decoration: underline;
-}
-
-.gmail:hover,
-.images:hover {
-  color: var(--white);
-  text-decoration: underline;
-}
-
-.grid {
-  height: 23px;
-  bottom: 4px;
-  margin-right: 10px;
-  margin-left: 10px;
-  filter: drop-shadow(2px 2px 2px var(--pink));
-}
-.signbutton {
-  background-color: rgba(255, 255, 255, 0.9);
-  color: var(--pink);
-  border: 1px solid transparent;
-  border-radius: 3px;
-  padding: 7px 10px;
-  bottom: 7px;
-  font-weight: bold;
-  margin-right: 10px;
-}
-
-.signbutton:hover {
-  border: 1px solid var(--pink);
-  color: var(--pink);
-}
-
-.cog {
-  filter: drop-shadow(2px 2px 2px var(--pink));
-}
-
-/* Search Bar */
 
 .bar {
-  margin: 0 auto;
   width: 575px;
   border-radius: 30px;
   border: 1px solid var(--white);
-  vertical-align: middle;
   box-shadow: 1px 1px 8px 1px var(--pink);
 }
 
-.bar:focus-within {
-  box-shadow: 1px 1px 8px 1px var(--pink);
-  outline: none;
+.bar:focus-within,
+.bar:hover {
+  background-color: rgba(255, 255, 255, 0.3);
 }
 .searchbar {
-  height: 45px;
-  border: none;
-  width: 500px;
-  font-size: 16px;
-  outline: none;
+  margin-left: 20px;
+  height: 40px;
+  width: 480px;
   background: transparent;
-  color: var(--white);
-  text-shadow: 2px 2px var(--pink);
-  text-indent: 20px;
+  border: none;
+  outline: none;
+  text-shadow: 2px 2px 2px var(--pink);
+  color: white;
+  font-size: 16px;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  transition: background-color 5000s ease-in-out 0s;
+  -webkit-text-fill-color: white !important;
 }
 
 .search {
   height: 18px;
   position: relative;
-  top: -4px;
-  left: 10px;
+  top: 3px;
+  left: -3px;
   filter: drop-shadow(2px 2px 2px var(--pink));
 }
 
 .voice {
   height: 20px;
   position: relative;
-  top: -4px;
-  left: 3px;
+  top: 3px;
+  left: -3px;
+  filter: drop-shadow(2px 2px 2px var(--pink));
+}
+
+/* Navbar */
+
+.background {
+  background-image: url("./imgs/Sakura2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-size: 100% 100%;
+  width: 100%;
+}
+
+.navbar {
+  display: flex;
+}
+
+.navbar-left {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-left: 20px;
+  width: 50%;
+}
+
+.navbar-right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-right: 20px;
+  width: 50%;
+}
+
+.cog {
+  height: 18px;
+  width: 18px;
+  filter: drop-shadow(2px 2px 2px var(--pink));
+}
+
+.grid {
+  height: 18px;
+  width: 18px;
+  filter: drop-shadow(2px 2px 2px var(--pink));
+}
+.sign-button {
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 1px solid transparent;
+  border-radius: 3px;
+  padding: 7px 10px;
+  color: var(--pink) !important;
+  font-weight: bold;
+}
+
+.sign-button:hover {
+  border: 1px solid var(--pink);
+}
+
+.sign-button:focus {
   filter: drop-shadow(2px 2px 2px var(--pink));
 }
 
@@ -166,14 +142,14 @@ body {
 
 .main-nav li {
   display: inline;
-  font-size: 0.8em;
+  font-size: 14px;
   margin: 14px;
 }
 
 .main-nav a {
   text-decoration: none;
   color: white;
-  text-shadow: 2px 2px var(--pink);
+  text-shadow: 2px 2px 2px var(--pink);
 }
 
 .main-nav a:hover {
@@ -190,46 +166,39 @@ body {
   margin-right: auto;
   float: left;
   margin-bottom: 80px;
+  color: white;
 }
 
-/* .containerbig {
-  margin-left: 700px;
-  margin-top: 28px;
-  text-align: center;
-  height: fit-content;
+table,
+thead,
+th,
+tbody {
+  text-align: start;
 }
-
-.images {
-  box-shadow: 0 4px 8px 0 rgba(170, 51, 106, 0.3);
-  transition: 0.3s;
-  border-radius: 10%;
-}
-
-.images:hover {
-  box-shadow: 0 8px 16px 0 rgba(170, 51, 106, 0.3);
-} */
 
 /* Footer */
 
-#bottom {
+.container_footer {
   margin: 0 auto;
-  position: absolute;
-  text-align: center;
-  box-sizing: border-box;
+  position: fixed;
+  display: block;
+  bottom: 0px;
   width: 100%;
   z-index: 9999;
-  display: none;
   left: 0px;
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px 2px var(--pink);
 }
 
-span {
+.footer {
   background-image: url("./imgs/Sakura2.jpg");
   background-position: bottom;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   background-size: 100% 100%;
-  color: var(--white);
+  color: white;
   text-shadow: 2px 2px 2px var(--pink);
   display: block;
   position: absolute;
@@ -237,19 +206,9 @@ span {
   width: 100%;
 }
 
-.footer-centre:hover,
-.advertising:hover,
-.business:hover,
-.how-search-works:hover,
-.privacy:hover,
-.terms:hover,
-.settings:hover {
-  color: var(--white) !important;
-  text-decoration: underline;
-}
 .uk {
   padding: 15px 30px;
-  border-bottom: 1px solid var(--white);
+  border-bottom: 1px solid white;
   margin-bottom: 10px;
   font-size: 15px;
   text-align: left;
@@ -258,16 +217,21 @@ span {
 .flex-display {
   display: flex;
   align-items: center;
-  padding-left: 40px;
-  padding-right: 40px;
-  color: var(--white);
+  margin-left: 40px;
+  margin-right: 40px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
+.icon {
+  height: 18px;
+  width: 18px;
+}
+
 .footer-centre {
+  display: flex;
   flex: 2;
-  text-align: center;
+  justify-content: center;
   font-size: 14px;
 }
 
@@ -287,13 +251,24 @@ span {
   font-size: 14px;
 }
 
-.footer-centre,
+.neutral,
 .advertising,
 .business,
 .how-search-works,
 .privacy,
 .terms,
 .settings {
-  color: var(--white) !important;
+  color: white;
   text-decoration: none;
+}
+
+.neutral:hover,
+.advertising:hover,
+.business:hover,
+.how-search-works:hover,
+.privacy:hover,
+.terms:hover,
+.settings:hover {
+  color: white;
+  text-decoration: underline;
 }
