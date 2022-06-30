@@ -14,9 +14,10 @@ body {
 .background {
   background-image: url("./imgs/Sakura2.jpg");
   background-position: top;
-}
-
-.top {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-size: 100% 100%;
 }
 
 /* Navbar */
@@ -191,7 +192,6 @@ body {
   margin-bottom: 80px;
 }
 
-
 /* .containerbig {
   margin-left: 700px;
   margin-top: 28px;
@@ -225,6 +225,10 @@ body {
 span {
   background-image: url("./imgs/Sakura2.jpg");
   background-position: bottom;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-size: 100% 100%;
   color: var(--white);
   text-shadow: 2px 2px 2px var(--pink);
   display: block;
