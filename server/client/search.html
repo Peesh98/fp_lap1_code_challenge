@@ -14,177 +14,189 @@
 </head>
 
 <body>
+    <div class="top">
+        <!-- Navbar -->
 
-    <!-- Navbar -->
-
-    <div class="background">
-        <header class="navbar">
-            <div class="navbar-left">
-                <a class="navbar-brand" href="index.html">
-                    <img class="google-img" src="assets/imgs/Google.png" alt="Google Logo" width="100" height=auto>
-                </a>
-                <form id="searchinput">
-                    <div class="bar">
-                        <input class="searchbar" type="text" name="searchtext" title="Search">
-                        <a href="#"> <img class="voice" src="assets/imgs/mic.png" title="Search by Voice"></a>
-                        <a href="#"><img class="search" src="assets/imgs/search.png" title="search"></a>
-                    </div>
-                </form>
-            </div>
-            <div class="navbar-right">
-                <a href="https://www.google.com/preferences?hl=en&prev=https://www.google.com/search?q%3Df%26sxsrf%3DALiCzsaFWbjbf_WSl7NErWr2O5grfnUtcw:1656517806294%26source%3Dhp%26ei%3DrnS8Yo7KDoiDhbIPu96H8A0%26iflsig%3DAJiK0e8AAAAAYryCvqgONbtrx7CmPsmTK8ZyskSq_7Uo%26ved%3D0ahUKEwiO2Z7bgdP4AhWIQUEAHTvvAd4Q4dUDCA8%26oq%3Df%26gs_lcp%3DCgdnd3Mtd2l6EAwyBAgjECcyBAgjECcyBAgjECcyCAguENQCEJECMgUIABCRAjIRCC4QgAQQsQMQgwEQxwEQ0QMyCwgAEIAEELEDEIMBMggILhCABBCxAzILCAAQgAQQsQMQgwEyBQgAEIAEOgcIIxDqAhAnUIkCWIkCYI0MaAFwAHgAgAFciAFckgEBMZgBAKABAbABCg%26sclient%3Dgws-wiz"
-                    target="_blank"><img class="cog" src="assets/imgs/cog.png" title="settings"
-                        style="width: 18px; height: 18px;"></a>
-                <a href="https://workspace.google.com/" target="_blank"><img class="grid" src="assets/imgs/grid1.png"
-                        title="googleapps" style="width: 18px; height: 18px;"></a>
-                <a class="links" href="https://myaccount.google.com/" target="_blank"><button class="signbutton"
-                        type="button">Sign In</button></a>
-            </div>
-        </header>
-
-        <!-- Second Navbar -->
-
-        <div class="main-nav">
-            <ul>
-                <li><a href="#">All</a></li>
-                <li><a href="#">Videos</a></li>
-                <li><a href="#">Shopping</a></li>
-                <li><a href="#">News</a></li>
-                <li><a href="#">Images</a></li>
-                <li><a href="#">More</a></li>
-                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                <li><a href="#">Search Tools</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Search Results -->
-
-    <div class="container">
-        <p id="time-taken" class="small" style="color: white;"></p>
-        <div id="result1" class="row bg">
-            <div class="col-md-4"><a id="result1-heading" href="#" style="color: white;"></a>
-                <p style="color: white;" id="result1-desc"></p>
-            </div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-        </div>
-        <br>
-        <div id="result2" class="row">
-            <div class="col-md-4"><a id="result2-heading" href="#" style="color: white;"></a>
-                <p style="color: white;" id="result2-desc"></p>
-            </div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-        </div>
-        <div class="row">
-            <div class="col-md-4">
-                <table style="color: white;" id="question-table" class="table table-hover" style="display: none;">
-                    <thead>
-                        <th scope="col">People Also Ask</th>
-                    </thead>
-                    <tbody id="question-table-body">
-
-                    </tbody>
-                </table>
-            </div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-        </div>
-        <br>
-        <div id="result3" class="row">
-            <div class="col-md-4"><a id="result3-heading" href="#" style="color: white;"></a>
-                <p style="color: white;" id="result3-desc"></p>
-            </div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-        </div>
-        <br>
-        <div id="result4" class="row">
-            <div class="col-md-4"><a id="result4-heading" href="#" style="color: white;"></a>
-                <p style="color: white" id="result4-desc"></p>
-            </div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-        </div>
-        <br>
-        <div id="result5" class="row">
-            <div class="col-md-4"><a id="result5-heading" href="#" style="color: white;"></a>
-                <p style="color: white;" id="result5-desc"></p>
-            </div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-        </div>
-        <br>
-        <div id="result6" class="row">
-            <div class="col-md-4"><a id="result6-heading" href="#" style="color: white;"></a>
-                <p style="color: white" id="result6-desc"></p>
-            </div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-        </div>
-        <br>
-        <div id="result7" class="row">
-            <div class="col-md-4"><a id="result7-heading" href="#" style="color: white;"></a>
-                <p style="color: white" id="result7-desc"></p>
-            </div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-        </div>
-        <br>
-        <div id="result8" class="row">
-            <div class="col-md-4"><a id="result8-heading" href="#" style="color: white;"></a>
-                <p style="color: white;" id="result8-desc"></p>
-            </div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-        </div>
-        <div id="result9" class="row">
-            <div class="col-md-4"><a id="result9-heading" href="#" style="color: white;"></a>
-                <p style="color: white;" id="result9-desc"></p>
-            </div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-        </div>
-        <div id="result10" class="row">
-            <div class="col-md-4"><a id="result10-heading" href="#" style="color: white;"></a>
-                <p style="color: white;" id="result10-desc"></p>
-            </div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-        </div>
-    </div>
-
-    <!-- Footer -->
-
-    <div class="wrapper">
-        <footer>
-            <div class="uk">United Kingdom</div>
-            <div class="flex-display">
-                <div class="footer-left">
-                    <a class="advertising"
-                        href="https://ads.google.com/intl/en_uk/home/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1"
-                        target="_blank">Advertising</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                    <a class="business"
-                        href="https://smallbusiness.withgoogle.com/intl/en_uk/?subid=uk-en-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google&utm_medium=ep&utm_campaign=google_hpbfooter&utm_content=google_hpbfooter&gmbsrc=uk-en_GB-et-gs-z-gmb-s-z-u~sb-g4sb_srvcs-u#!/"
-                        target="_blank">Business</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                    <a class="how-search-works" href="https://www.google.com/search/howsearchworks/?fg=1"
-                        target="_blank">How Search Works</a>
+        <div class="background">
+            <header class="navbar">
+                <div class="navbar-left">
+                    <a class="navbar-brand" href="index.html">
+                        <img class="google-img" src="assets/imgs/Google.png" alt="Google Logo" width="100" height=auto>
+                    </a>
+                    <form id="searchinput">
+                        <div class="bar">
+                            <input class="searchbar" id="searchtext" type="text" name="searchtext" title="Search">
+                            <a href="#"> <img class="voice" src="assets/imgs/mic.png" title="Search by Voice"></a>
+                            <a href="#"><img class="search" src="assets/imgs/search.png" title="search"></a>
+                        </div>
+                    </form>
                 </div>
-                <a class="footer-centre"
-                    href="https://sustainability.google/intl/en-GB/carbon-free/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=#home"
-                    target="_blank"><img src="assets/imgs/SakuraIcon.png" title="icon"
-                        style="width: 18px; height: 18px;">Carbon Neutral Since 2007</a>
-                <div class="footer-right">
-                    <a class="privacy" href="https://policies.google.com/privacy?hl=en-GB&fg=1"
-                        target="_blank">Privacy</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                    <a class="terms" href="https://policies.google.com/terms?hl=en-GB&fg=1"
-                        target="_blank">Terms</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                    <a class="settings" href="https://www.google.com/preferences?hl=en-GB&fg=1"
-                        target="_blank">Settings</a>
-        </footer>
-    </div>
-    
+                <div class="navbar-right">
+                    <a href="https://www.google.com/preferences?hl=en&prev=https://www.google.com/search?q%3Df%26sxsrf%3DALiCzsaFWbjbf_WSl7NErWr2O5grfnUtcw:1656517806294%26source%3Dhp%26ei%3DrnS8Yo7KDoiDhbIPu96H8A0%26iflsig%3DAJiK0e8AAAAAYryCvqgONbtrx7CmPsmTK8ZyskSq_7Uo%26ved%3D0ahUKEwiO2Z7bgdP4AhWIQUEAHTvvAd4Q4dUDCA8%26oq%3Df%26gs_lcp%3DCgdnd3Mtd2l6EAwyBAgjECcyBAgjECcyBAgjECcyCAguENQCEJECMgUIABCRAjIRCC4QgAQQsQMQgwEQxwEQ0QMyCwgAEIAEELEDEIMBMggILhCABBCxAzILCAAQgAQQsQMQgwEyBQgAEIAEOgcIIxDqAhAnUIkCWIkCYI0MaAFwAHgAgAFciAFckgEBMZgBAKABAbABCg%26sclient%3Dgws-wiz"
+                        target="_blank"><img class="cog" src="assets/imgs/cog.png" title="settings"
+                            style="width: 18px; height: 18px;"></a>
+                    <a href="https://workspace.google.com/" target="_blank"><img class="grid"
+                            src="assets/imgs/grid1.png" title="googleapps" style="width: 18px; height: 18px;"></a>
+                    <a class="links" href="https://myaccount.google.com/" target="_blank"><button class="signbutton"
+                            type="button">Sign In</button></a>
+                </div>
+            </header>
+
+            <!-- Second Navbar -->
+
+            <div class="main-nav">
+                <ul>
+                    <li><a href="#">All</a></li>
+                    <li><a href="#">Videos</a></li>
+                    <li><a href="#">Shopping</a></li>
+                    <li><a href="#">News</a></li>
+                    <li><a href="#">Images</a></li>
+                    <li><a href="#">More</a></li>
+                    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                    <li><a href="#">Search Tools</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Search Results -->
+
+        <div class="container">
+            <br>
+            <p id="time-taken" class="small" style="color: white;"></p>
+            <div id="result1">
+                <div><a id="result1-heading" href="#" style="color: white;"></a>
+                    <p style="color: white;" id="result1-desc"></p>
+                </div>
+            </div>
+            <br>
+            <div id="result2">
+                <div><a id="result2-heading" href="#" style="color: white;"></a>
+                    <p style="color: white;" id="result2-desc"></p>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <table id="question-table" class="table table-hover" style="display: none; color: white;">
+                        <thead>
+                            <th scope="col">People also ask</th>
+                        </thead>
+                        <tbody id="question-table-body">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <br>
+            <div id="result3">
+                <div><a id="result3-heading" href="#" style="color: white;"></a>
+                    <p style="color: white;" id="result3-desc"></p>
+                </div>
+            </div>
+            <br>
+            <div id="result4">
+                <div><a id="result4-heading" href="#" style="color: white;"></a>
+                    <p style="color: white" id="result4-desc"></p>
+                </div>
+            </div>
+            <br>
+            <div id="result5">
+                <div><a id="result5-heading" href="#" style="color: white;"></a>
+                    <p style="color: white;" id="result5-desc"></p>
+                </div>
+            </div>
+            <br>
+            <div id="result6">
+                <div><a id="result6-heading" href="#" style="color: white;"></a>
+                    <p style="color: white" id="result6-desc"></p>
+                </div>
+            </div>
+            <br>
+            <div id="result7">
+                <div><a id="result7-heading" href="#" style="color: white;"></a>
+                    <p style="color: white" id="result7-desc"></p>
+                </div>
+            </div>
+            <br>
+            <div id="result8">
+                <div><a id="result8-heading" href="#" style="color: white;"></a>
+                    <p style="color: white;" id="result8-desc"></p>
+                </div>
+            </div>
+            <div id="result9">
+                <div><a id="result9-heading" href="#" style="color: white;"></a>
+                    <p style="color: white;" id="result9-desc"></p>
+                </div>
+            </div>
+            <div id="result10">
+                <div><a id="result10-heading" href="#" style="color: white;"></a>
+                    <p style="color: white;" id="result10-desc"></p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Search Results Complimentary -->
+
+        <!-- <div class="containerbig">
+            <div>
+                <img class="images" src="assets/imgs/bird2.jpg" alt="Sakura3" height=180px width=23%>
+                <img class="images" src="assets/imgs/bird3.jpg" alt="Sakura3" height=180px width=23%>
+                <img class="images" src="assets/imgs/bird4.jpg" alt="Sakura3" height=180px width=23%>
+            </div>
+            <br>
+            <div>
+                <img class="images" src="assets/imgs/bird5.jpg" alt="Sakura3" height=180px width=23%>
+                <img class="images" src="assets/imgs/bird6.jpg" alt="Sakura3" height=180px width=23%>
+                <img class="images" src="assets/imgs/bird7.jpg" alt="Sakura3" height=180px width=23%>
+            </div>
+            <br>
+            <div>
+                <img class="images" src="assets/imgs/bird9.jpg" alt="Sakura3" height=180px width=23%>
+                <img class="images" src="assets/imgs/bird9.webp" alt="Sakura3" height=180px width=23%>
+                <img class="images" src="assets/imgs/bird8.jpg" alt="Sakura3" height=180px width=23%>
+            </div>
+            <br>
+            <div>
+                <img class="images" src="assets/imgs/bird10.jpg" alt="Sakura3" height=180px width=23%>
+                <img class="images" src="assets/imgs/bird11.jpg" alt="Sakura3" height=180px width=23%>
+                <img class="images" src="assets/imgs/bird12.jpg" alt="Sakura3" height=180px width=23%>
+            </div>
+            <br>
+            <div>
+                <img class="images" src="assets/imgs/bird13.jpg" alt="Sakura3" height=180px width=23%>
+                <img class="images" src="assets/imgs/bird14.jpg" alt="Sakura3" height=180px width=23%>
+                <img class="images" src="assets/imgs/bird15.png" alt="Sakura3" height=180px width=23%>
+            </div> -->
+
+            <!-- Footer -->
+
+            <div id="bottom" data-nosnippet="true" data-cli-style="cli-style-v2"
+                style="bottom: 0px; position: fixed; display: block;">
+                <span>
+                    <div class="uk">United Kingdom</div>
+                    <div class="flex-display">
+                        <div class="footer-left">
+                            <a class="advertising"
+                                href="https://ads.google.com/intl/en_uk/home/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1"
+                                target="_blank">Advertising</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                            <a class="business"
+                                href="https://smallbusiness.withgoogle.com/intl/en_uk/?subid=uk-en-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google&utm_medium=ep&utm_campaign=google_hpbfooter&utm_content=google_hpbfooter&gmbsrc=uk-en_GB-et-gs-z-gmb-s-z-u~sb-g4sb_srvcs-u#!/"
+                                target="_blank">Business</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                            <a class="how-search-works" href="https://www.google.com/search/howsearchworks/?fg=1"
+                                target="_blank">How Search Works</a>
+                        </div>
+                        <a class="footer-centre"
+                            href="https://sustainability.google/intl/en-GB/carbon-free/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=#home"
+                            target="_blank"><img src="assets/imgs/SakuraIcon.png" title="icon"
+                                style="width: 18px; height: 18px;">Carbon Neutral Since 2007</a>
+                        <div class="footer-right">
+                            <a class="privacy" href="https://policies.google.com/privacy?hl=en-GB&fg=1"
+                                target="_blank">Privacy</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                            <a class="terms" href="https://policies.google.com/terms?hl=en-GB&fg=1"
+                                target="_blank">Terms</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                            <a class="settings" href="https://www.google.com/preferences?hl=en-GB&fg=1"
+                                target="_blank">Settings</a>
+                </span>
+            </div>
+
 </body>
 
 </html>
