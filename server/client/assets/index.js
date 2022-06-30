@@ -1,14 +1,11 @@
-const searchText = document.getElementById("searchtext")
-searchText.addEventListener('keydown', (e) => {
-    if (e.key === "Enter") {
-        search;
+const searchInput = document.getElementById("searchinput");
+searchInput.addEventListener('keyup', (e) => {
+    if (e.code === "Enter") {
+        e.preventDefault();
+        document.querySelector('form').submit();
     };
 });
-
-if (window.location.href === `${window.location.origin}/` || window.location.href === `${window.location.origin}/index.html`) {
-    const searchInput = document.getElementById("searchinput");
-    searchInput.addEventListener('submit', search);
-};
+searchInput.addEventListener('submit', search);
 
 function search(e) {
     e.preventDefault();
@@ -16,8 +13,6 @@ function search(e) {
         const searchParams = new URLSearchParams ({
             q: e.target.searchtext.value.trim()
         });
-
-        // const searchURL = `${window.location.origin}/search?${searchParams.toString()}`;
 
         if (e.submitter.name === "search") {
             window.location.href = `${window.location.origin}/search?${searchParams.toString()}`;
