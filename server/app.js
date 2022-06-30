@@ -6,14 +6,14 @@ var path = require('path');
 
 app.use(cors());
 
-app.use(express.static('../client'));
+app.use(express.static('./client'));
 
 app.get('/', (req, res) => {
-    res.sendFile(__dirname + '/../client/index.html');
+    res.sendFile(path.resolve('./client/index.html'));
 });
 
 app.get('/search', (req, res) => {
-    res.sendFile(path.resolve('../client/search.html'));
+    res.sendFile(path.resolve('./client/search.html'));
 });
 
 app.get('/search/results', (req, res) => {
