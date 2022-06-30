@@ -4,7 +4,7 @@ const app = express();
 const cors = require('cors');
 var path = require('path');
 
-app.use(cors());
+app.use(cors("*"));
 
 app.use(express.static('../client'));
 
