@@ -190,7 +190,7 @@ body {
   margin-bottom: 80px;
 }
 
-.containerbig {
+/* .containerbig {
   margin-left: 700px;
   margin-top: 28px;
   text-align: center;
@@ -205,13 +205,7 @@ body {
 
 .images:hover {
   box-shadow: 0 8px 16px 0 rgba(170, 51, 106, 0.3);
-}
-
-table,
-th,
-td {
-  color: white;
-}
+} */
 
 /* Footer */
 
