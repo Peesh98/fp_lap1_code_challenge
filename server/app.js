@@ -30,7 +30,7 @@ app.get('/search/results', (req, res) => {
 
     axios.get(`https://serpapi.com/search.json?${searchParams.toString()}`)
     .then(search_response => search_response.data)
-    .then(data => res.json(data))
+    .then(data => console.log(res.json(data)))
     .catch(console.warn);
 });
 
