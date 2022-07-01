@@ -1,26 +1,30 @@
-const searchText = document.getElementById("searchtext")
-searchText.addEventListener('keydown', (e) => {
-    if (e.key === "Enter") {
-        search;
+const searchInput = document.getElementById("searchinput");
+
+searchInput.addEventListener('keydown', e => {
+    if(e.key == "Enter"){
+        e.preventDefault();
+        if (searchtext.value.trim() && searchtext.value.trim() !== undefined) {
+            const searchParams = new URLSearchParams ({
+                q: searchtext.value.trim()
+            });
+            window.location.href = `${window.location.origin}/search?${searchParams.toString()}`;
+        };
     };
 });
 
-if (window.location.href === `${window.location.origin}/` || window.location.href === `${window.location.origin}/index.html`) {
-    const searchInput = document.getElementById("searchinput");
-    searchInput.addEventListener('submit', search);
-};
+searchInput.addEventListener('submit', search);
 
 function search(e) {
     e.preventDefault();
-    if (e.target.searchtext.value.trim() && e.target.searchtext.value.trim() !== undefined) {
+    const query = searchtext.value;
+    if (searchtext.value.trim() && searchtext.value.trim() !== undefined) {
         const searchParams = new URLSearchParams ({
-            q: e.target.searchtext.value.trim()
+            q: searchtext.value.trim()
         });
-
-        // const searchURL = `${window.location.origin}/search?${searchParams.toString()}`;
 
         if (e.submitter.name === "search") {
             window.location.href = `${window.location.origin}/search?${searchParams.toString()}`;
+            document.getElementById("searchtext").textContent = query;
         } else {
             fetch(`${window.location.origin}/search/results?${searchParams.toString()}`)
             .then(res => res.json())
