@@ -1,10 +1,17 @@
 function collectResultData() {
-    const params = (new URL(document.location)).searchParams;
-    const dataUrl = `${window.location.origin}/search/results?${params.toString()}`
-    fetch(dataUrl)
-    .then(res => res.json())
-    .then(populateSearchResults)
-    .catch(console.warn)
+    const searchParams = (new URL(document.location)).searchParams;
+
+    getSearchResults();
+    
+    async function getSearchResults() {
+        try{
+        const resp = await fetch(`${window.location.origin}/search/results?${searchParams.toString()}`);
+        const searchResults = await resp.json();
+        populateSearchResults(searchResults);
+        } catch (err) {
+            alert("Unable to fetch search results!");
+        }
+    }
 }
 
 function populateSearchResults(data) {
