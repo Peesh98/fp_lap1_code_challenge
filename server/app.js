@@ -28,10 +28,26 @@ app.get('/search/results', (req, res) => {
         hl: "en"
     });
 
-    axios.get(`https://serpapi.com/search.json?${searchParams.toString()}`)
-    .then(search_response => search_response.data)
-    .then(data => console.log(res.json(data)))
-    .catch(console.warn);
+    switch(req.query.q) {
+    case "dog":
+        const dogData = require('./dogData.json');
+        res.send(dogData);
+        break;
+    case "cat":
+        const catData = require('./catData.json');
+        res.send(catData);
+        break;
+    case "Pokemon":
+        const pokemonData = require('./pokemonData.json');
+        res.send(pokemonData);
+        break;
+    default:
+        axios.get(`https://serpapi.com/search.json?${searchParams.toString()}`)
+        .then(search_response => search_response.data)
+        .then(data => console.log(res.json(data)))
+        .catch(console.warn);
+        break;
+    };
 });
 
 module.exports = app;

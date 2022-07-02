@@ -1,0 +1,710 @@
+{
+    "search_metadata": {
+      "id": "62bf96eb2c6878f70b151771",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/086ec53dde9c6a0f/62bf96eb2c6878f70b151771.json",
+      "created_at": "2022-07-02 00:52:59 UTC",
+      "processed_at": "2022-07-02 00:52:59 UTC",
+      "google_url": "https://www.google.co.uk/search?q=dog&oq=dog&uule=w+CAIQICIlR3JlYXRlciBMb25kb24sRW5nbGFuZCxVbml0ZWQgS2luZ2RvbQ&hl=en&gl=uk&safe=active&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/086ec53dde9c6a0f/62bf96eb2c6878f70b151771.html",
+      "total_time_taken": 1.44
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "dog",
+      "location_requested": "Greater London, England, United Kingdom",
+      "location_used": "Greater London,England,United Kingdom",
+      "google_domain": "google.co.uk",
+      "hl": "en",
+      "gl": "uk",
+      "safe": "active",
+      "device": "desktop"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "query_displayed": "dog",
+      "total_results": 5590000000,
+      "time_taken_displayed": 0.86
+    },
+    "knowledge_graph": {
+      "title": "Dog",
+      "type": "12A 2022 ‧ Comedy/Road ‧ 1h 41m",
+      "website": "https://www.youtube.com/watch?v=V4tAtp-TyzQ",
+      "description": "With a dog named Lulu by his side, Army Ranger Briggs races down the Pacific Coast to make it to a soldier's funeral on time. Along the way, Briggs and Lulu drive each other completely crazy, break a handful of laws, narrowly evade death, and learn to let down their guards to have a fighting chance of finding happiness.",
+      "release_date": "18 February 2022 (United Kingdom)",
+      "release_date_links": [
+        {
+          "text": "Release date",
+          "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=dog+2022+release+date&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMyyKLeoSM4z0TLKTrbST8vMyQUTViUZqYklRZnJiTkKRanpmfl5ConliUWpQE5OamJxqkJKYknqIlbRlPx0BSMDIyMUcQD53XDrXQAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ6BMoAHoECH8QAg"
+        },
+        {
+          "text": "United Kingdom",
+          "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=United+Kingdom&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMyyKLeoSM4zUeLQz9U3MC8uTtYyyk620k_LzMkFE1YlGamJJUWZyYk5CkWp6Zn5eQqJ5YlFqUBOTmpicapCSmJJ6iJWvtC8zJLUFAXvzLz0lPzcHayMu9iZOBgAeJxg42gAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQmxMoAXoECH8QAw"
+        }
+      ],
+      "directors": "Channing Tatum, Reid Carolin",
+      "directors_links": [
+        {
+          "text": "Directors",
+          "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=dog+2022+directors&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMyyKLeoSM4z0RLLTrbST8vMyQUTVimZRanJJflFi1iFUvLTFYwMjIwUYGLFAFEhMiA-AAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ6BMoAHoECH0QAg"
+        },
+        {
+          "text": "Channing Tatum",
+          "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Channing+Tatum&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMyyKLeoSM4zUeLUz9U3MMspy0nTEstOttJPy8zJBRNWKZlFqckl-UWLWPmcMxLz8jLz0hVCEktKc3ewMu5iZ-JgBAAahaXQTQAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQmxMoAXoECH0QAw"
+        },
+        {
+          "text": "Reid Carolin",
+          "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Reid+Carolin&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMyyKLeoSM4zUeLSz9U3MDE0Lsgx1RLLTrbST8vMyQUTVimZRanJJflFi1h5glIzUxScE4vyczLzdrAy7mJn4mAEAMEIkDJMAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQmxMoAnoECH0QBA"
+        }
+      ],
+      "editorial_reviews": [
+        {
+          "title": "IMDb",
+          "rating": "6.5/10",
+          "link": "https://www.imdb.com/title/tt11252248/"
+        },
+        {
+          "title": "Rotten Tomatoes",
+          "rating": "77%",
+          "link": "https://www.rottentomatoes.com/m/dog_2022"
+        },
+        {
+          "title": "Metacritic",
+          "rating": "61%",
+          "link": "https://www.metacritic.com/movie/dog"
+        }
+      ],
+      "audience_reviews": [
+        {
+          "rating": 5,
+          "summary": "Just saw this yesterday, on Amazon Prime. My husband and I were truly surprised, as it was much deeper a film than the trailers let onto. It was, to me, a serious film framed as a comedy. While there were funny moments, they buffered the more serious nature of the ..."
+        },
+        {
+          "rating": 5,
+          "summary": "On Worst Case Scenario, A Malinois mix and a Dutch Shepherd are chasing Bear 45.25 lbs Brute the staffordshire bull terrier vs 60 lbs APBT! However, wolves can be extremely dangerous opponents for dogs, even when outnumbered. Louis XIII of France once ..."
+        },
+        {
+          "rating": 4,
+          "summary": "BEAUTIFUL & THOUGHT PROVOKING. I truly loved this movie. The combination of Channing Tatum, who plays ex army Ranger Jackson Briggs, a Belgian Malinois dog called “Lulu” and a fantastic script equates to a profound and thought provoking match made in ..."
+        }
+      ],
+      "user_statistics": {
+        "platform": "Google users",
+        "statistic": null
+      },
+      "watch_now": [
+        {
+          "name": "Watch now From £3.49",
+          "link": "http://www.youtube.com/watch?v=9D-85QjBkig",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active",
+          "image": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/fb73033f74bfe17426b017694456aa3c6df3b6ebb70865f83cd0d2c19cbc9ebdf6dd46e745c14eda.png"
+        }
+      ],
+      "cast": [
+        {
+          "name": "Channing Tatum (Jackson Briggs)",
+          "extensions": [
+            "Jackson Briggs"
+          ],
+          "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Channing+Tatum&stick=H4sIAAAAAAAAAONgFuLVT9c3NMyyKLeoSM4zUeLUz9U3MMspy0nT4vHNL8tMDcl3TC7JL1rEyueckZiXl5mXrhCSWFKau4OVEQBtmr3QPgAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQxA16BAh5EAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Channing+Tatum&safe=active&stick=H4sIAAAAAAAAAONgFuLVT9c3NMyyKLeoSM4zUeLUz9U3MMspy0nT4vHNL8tMDcl3TC7JL1rEyueckZiXl5mXrhCSWFKau4OVEQBtmr3QPgAAAA",
+          "image": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/fb73033f74bfe17426b017694456aa3cf76df77b5c94b0da45fba588acf631a4.jpeg"
+        },
+        {
+          "name": "Ethan Suplee (Noah)",
+          "extensions": [
+            "Noah"
+          ],
+          "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Ethan+Suplee&stick=H4sIAAAAAAAAAONgFuLVT9c3NMyyKLeoSM4zUeLUz9U3MDM3yMrR4vHNL8tMDcl3TC7JL1rEyuNakpGYpxBcWpCTmrqDlREAx6jFHzwAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQxA16BAh5EAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Ethan+Suplee&safe=active&stick=H4sIAAAAAAAAAONgFuLVT9c3NMyyKLeoSM4zUeLUz9U3MDM3yMrR4vHNL8tMDcl3TC7JL1rEyuNakpGYpxBcWpCTmrqDlREAx6jFHzwAAAA",
+          "image": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/fb73033f74bfe17426b017694456aa3c5d601e2be1904a88aff3035e92c4af06.jpeg"
+        },
+        {
+          "name": "Kevin Nash (Gus)",
+          "extensions": [
+            "Gus"
+          ],
+          "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Kevin+Nash&stick=H4sIAAAAAAAAAONgFuLVT9c3NMyyKLeoSM4zUeLUz9U3MLLIyy3Q4vHNL8tMDcl3TC7JL1rEyuWdWpaZp-CXWJyxg5URAG7yaKo6AAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQxA16BAh5EAk",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Kevin+Nash&safe=active&stick=H4sIAAAAAAAAAONgFuLVT9c3NMyyKLeoSM4zUeLUz9U3MLLIyy3Q4vHNL8tMDcl3TC7JL1rEyuWdWpaZp-CXWJyxg5URAG7yaKo6AAAA",
+          "image": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/fb73033f74bfe17426b017694456aa3cf535b31b9f4a2be3644acc2b38323901.jpeg"
+        },
+        {
+          "name": "Cayden Boyd (Corporal Levitz)",
+          "extensions": [
+            "Corporal Levitz"
+          ],
+          "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Cayden+Boyd&stick=H4sIAAAAAAAAAONgFuLVT9c3NMyyKLeoSM4zUeLUz9U3MMuoNCvX4vHNL8tMDcl3TC7JL1rEyu2cWJmSmqfglF-ZsoOVEQDnYK8LOwAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQxA16BAh5EAs",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Cayden+Boyd&safe=active&stick=H4sIAAAAAAAAAONgFuLVT9c3NMyyKLeoSM4zUeLUz9U3MMuoNCvX4vHNL8tMDcl3TC7JL1rEyu2cWJmSmqfglF-ZsoOVEQDnYK8LOwAAAA",
+          "image": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/fb73033f74bfe17426b017694456aa3c6b75ddf90dea8691f20814fc924dbd58.jpeg"
+        }
+      ],
+      "cast_link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=dog+2022+cast&stick=H4sIAAAAAAAAAONgFuLVT9c3NMyyKLeoSM4zUULlagllJ1vpp2Xm5IIJq-TE4pJFrLwp-ekKRgZGRgog_g5WRgCO5Km0RwAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQMSgAegQIeRAB",
+      "cast_stick": "H4sIAAAAAAAAAONgFuLVT9c3NMyyKLeoSM4zUULlagllJ1vpp2Xm5IIJq-TE4pJFrLwp-ekKRgZGRgog_g5WRgCO5Km0RwAAAA",
+      "profiles": [
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/dogthefilm/",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active",
+          "image": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png"
+        }
+      ],
+      "people_also_search_for": [
+        {
+          "name": "Max (2015)",
+          "extensions": [
+            "2015"
+          ],
+          "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Max+(2015+film)&si=AC1wQDC0KliLIoeyh35S2UVSh9d07Pwsb5VutY-ECqLPWJZJUCWCHKmQ6NTOSDqB3u727X4xSOX9FS-Q1Rt-e6D_8rJbmlKYzz_0Q0jei1ko9SBA4PZoiCQVmtw03zshHJ6cJ3zdWjZTNGw1ARaRNQ6WdmPZ4jnGV-3JW8BqOX_2Ink6twRxBhO4F3UzoSlVhj7LyL8bF3XdwEXyjdnseSApMA0NVIZjyTXWiIk5VgP1mX7ov3yggRw48wGPWYhYeHVf4Mmv2c2YHZER64XDJlIcQQ1sXv6SQwPHutQg50sAG203ulRCHZ8eO_WHljk6sM_sC-RcQwhy&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQxA16BAh4EAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Max+%282015+film%29&safe=active&si=AC1wQDC0KliLIoeyh35S2UVSh9d07Pwsb5VutY-ECqLPWJZJUCWCHKmQ6NTOSDqB3u727X4xSOX9FS-Q1Rt-e6D_8rJbmlKYzz_0Q0jei1ko9SBA4PZoiCQVmtw03zshHJ6cJ3zdWjZTNGw1ARaRNQ6WdmPZ4jnGV-3JW8BqOX_2Ink6twRxBhO4F3UzoSlVhj7LyL8bF3XdwEXyjdnseSApMA0NVIZjyTXWiIk5VgP1mX7ov3yggRw48wGPWYhYeHVf4Mmv2c2YHZER64XDJlIcQQ1sXv6SQwPHutQg50sAG203ulRCHZ8eO_WHljk6sM_sC-RcQwhy",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9YzNkghPkYFRvY6TLX44BmRf-_3iZJHgiAjUcFTEQEAQNKe6Uubkxjr1g-knERHdk74"
+        },
+        {
+          "name": "The Lost City (2022)",
+          "extensions": [
+            "2022"
+          ],
+          "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=The+Lost+City&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHgD0rzoVTmFaxh_PmCfdTJRTSLukHtG7o13hKd0tBZUL1bN0r1tHqDOIm0VWYstESLpLV_ihbgv5i7gQPswKYGi21XestSgLmp9xX-ed8VKLeiKeewBc2O5v2ECNVN-m_dgJc940nWlm6SQK01-TjvUaMZNkrnaeUniFbP5kUFxuSwuWTfp1kC5uuhHIeVv72Zuv84ovxYctvw-o7jNVKdcCZJvlUoyen4IXdnK4q3vJF3ufMf0fv8vZV-j7A9DsIwRL-KfeJgC4uALD3GBZhjf-oIRi&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQxA16BAh4EAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=The+Lost+City&safe=active&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHgD0rzoVTmFaxh_PmCfdTJRTSLukHtG7o13hKd0tBZUL1bN0r1tHqDOIm0VWYstESLpLV_ihbgv5i7gQPswKYGi21XestSgLmp9xX-ed8VKLeiKeewBc2O5v2ECNVN-m_dgJc940nWlm6SQK01-TjvUaMZNkrnaeUniFbP5kUFxuSwuWTfp1kC5uuhHIeVv72Zuv84ovxYctvw-o7jNVKdcCZJvlUoyen4IXdnK4q3vJF3ufMf0fv8vZV-j7A9DsIwRL-KfeJgC4uALD3GBZhjf-oIRi",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQfWI95QG8UAvI9teGOugVBQpW50FAt0L7TdDVZz-LgdDyWcKg-IJGuoJ3DJyuWk9UBZc"
+        },
+        {
+          "name": "Licorice Pizza (2021)",
+          "extensions": [
+            "2021"
+          ],
+          "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Licorice+Pizza&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHhEKdwv5Zub0p9HAv1RtTdbsAhs0uQceXrgeiiZbQwWMnipYqcgThhjiTejDqcVl9rQXoi1VBtmS5zNGOlNkbhC99S46r3hXTc6miP7p5Hx5FvY3X21k918r09hUYx1n18I2Wk8Wa_PYWfrfbfc0HgBoE7cWtYjVmZoomin1wYCNHFt4tmqMQUOH2iHby7u5mn_9L9uEUI7vrpxhGgJygwPe8iy08kYU4sZgGkJUj4I93_b_iqRrdgC-GlNme8UwbfOa07tT8eZZm7mcMzJbYtp1x8Qs&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQxA16BAh4EAk",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Licorice+Pizza&safe=active&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHhEKdwv5Zub0p9HAv1RtTdbsAhs0uQceXrgeiiZbQwWMnipYqcgThhjiTejDqcVl9rQXoi1VBtmS5zNGOlNkbhC99S46r3hXTc6miP7p5Hx5FvY3X21k918r09hUYx1n18I2Wk8Wa_PYWfrfbfc0HgBoE7cWtYjVmZoomin1wYCNHFt4tmqMQUOH2iHby7u5mn_9L9uEUI7vrpxhGgJygwPe8iy08kYU4sZgGkJUj4I93_b_iqRrdgC-GlNme8UwbfOa07tT8eZZm7mcMzJbYtp1x8Qs",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpUDr0eEaXkW30jaOmkVzgZOdfeeTAd1asQOZ1kes466RaO7lKj3FM1kC5WDNyqhfGvNo"
+        },
+        {
+          "name": "Magic Mike (2012)",
+          "extensions": [
+            "2012"
+          ],
+          "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Magic+Mike&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbhMSYnOnvXV-Nb2p13ptrsJDkSPyn3b8nKmVdWrkwwS2MUPGgvwYE9-Zx0iefsZ3-Nft851-8lkvzu5XqqrWwwG8xQmHlwmi480owygRTvDVe4iPYq2OMqW5vMxYUF3pwGVIRwDABQbHEBPUwLRJQBgMRo6K_-4_09DBprSyRfYwjUXicYaIdHK2MJxefbaqAYsVGogQudPTkLg2oZK3VtqefBs4XhLMFk2XU39ww0Uoj4IMATCE8Tuf0c_hIh4gJuXWzwX4NWOQdQp5nilB7_GuOu-s&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQxA16BAh4EAs",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Magic+Mike&safe=active&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbhMSYnOnvXV-Nb2p13ptrsJDkSPyn3b8nKmVdWrkwwS2MUPGgvwYE9-Zx0iefsZ3-Nft851-8lkvzu5XqqrWwwG8xQmHlwmi480owygRTvDVe4iPYq2OMqW5vMxYUF3pwGVIRwDABQbHEBPUwLRJQBgMRo6K_-4_09DBprSyRfYwjUXicYaIdHK2MJxefbaqAYsVGogQudPTkLg2oZK3VtqefBs4XhLMFk2XU39ww0Uoj4IMATCE8Tuf0c_hIh4gJuXWzwX4NWOQdQp5nilB7_GuOu-s",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrlraghqFPfxBtUScwl7KjVyap3H8lixSeuTaI5avTtNaRr0xR9o9pvZp9UTMH0SGh5E0"
+        }
+      ],
+      "people_also_search_for_link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Dog+2022&stick=H4sIAAAAAAAAAONgFuLVT9c3NMyyKLeoSM4zUULlagkGZ6aklidWFvulVpQEl6QWFC9i5XDJT1cwMjAy2sHKCADwGRvwQQAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQMSgAegQIeBAB",
+      "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NMyyKLeoSM4zUULlagkGZ6aklidWFvulVpQEl6QWFC9i5XDJT1cwMjAy2sHKCADwGRvwQQAAAA",
+      "see_results_about": [
+        {
+          "name": "Dog",
+          "extensions": [
+            "Animal"
+          ],
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4diHdEiUX4OPvSRK6LLsKXvIuZgMutz6dsM4-VItMyUP9LU62vhd1O3ijJwf2nglxIAE8SA&s=0"
+        },
+        {
+          "name": "Canis",
+          "extensions": [
+            "Animal"
+          ],
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlA6u2EAvqpFC0C0DpbjkPPVujnYkBfQn4Ng7oiStBmjlps-6ABhUwDA&s=0"
+        }
+      ]
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "DOG | Official Trailer | MGM Studios",
+        "link": "https://www.youtube.com/watch?v=V4tAtp-TyzQ",
+        "thumbnail": "https://i.ytimg.com/vi/V4tAtp-TyzQ/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mYH1F3ISchc2MDFA7B7vfcphNwkg",
+        "channel": "MGM",
+        "duration": "2:33",
+        "platform": "YouTube",
+        "date": "17 Nov 2021"
+      },
+      {
+        "position": 2,
+        "title": "The Best Dogs of BBC Earth | Top 5 | BBC Earth",
+        "link": "https://www.youtube.com/watch?v=MPV2METPeJU",
+        "thumbnail": "https://i.ytimg.com/vi/MPV2METPeJU/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kQ2oFMiuSEoNuPOKpGEsqMqAPDJA",
+        "channel": "BBC Earth",
+        "duration": "13:12",
+        "platform": "YouTube",
+        "date": "26 Sept 2019"
+      },
+      {
+        "position": 3,
+        "title": "DOG | Behind-the-Scenes First Look | MGM Studios",
+        "link": "https://www.youtube.com/watch?v=nCgGUA4kHBk",
+        "thumbnail": "https://i.ytimg.com/vi/nCgGUA4kHBk/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3n__9jI5EiEEmNqIF_o50k8illHQQ",
+        "channel": "MGM",
+        "duration": "2:17",
+        "platform": "YouTube",
+        "date": "15 Feb 2022"
+      }
+    ],
+    "inline_people_also_search_for": [
+      {
+        "title": "Friendship movies",
+        "items": [
+          {
+            "name": "Turning Red",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaIuPr7L841_sIXAVXEN9IH8BPQCYC46XCz2FIgA&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Turning+Red&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMzJMTbKMKsyNRJMK8pMzUspzsgsUMjNL8tMLY5iTslPP8WIqu4UI5d-rr5BsnFFuYkZTDLDODfbwDgj6xQjJ0jS3LgsC64x2djIvCKjzAIqZ5SXkpwDk0sqK6uMN7DMgcqZlmRlWEAtMCosTDIyhkqYVKSbVP1iFHRDd-IiVu6Q0qK8zLx0haDUlFtskgymH1uZrhTpfOuvP650a7PiAxGRsHO1pqt-AQAvhqJL8QAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAB6BAhXEAI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Turning+Red&safe=active&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMzJMTbKMKsyNRJMK8pMzUspzsgsUMjNL8tMLY5iTslPP8WIqu4UI5d-rr5BsnFFuYkZTDLDODfbwDgj6xQjJ0jS3LgsC64x2djIvCKjzAIqZ5SXkpwDk0sqK6uMN7DMgcqZlmRlWEAtMCosTDIyhkqYVKSbVP1iFHRDd-IiVu6Q0qK8zLx0haDUlFtskgymH1uZrhTpfOuvP650a7PiAxGRsHO1pqt-AQAvhqJL8QAAAA"
+          },
+          {
+            "name": "Friends with Benefits",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmCdlSYxmEYyYdOBarwzxX4ieyuptaqZXujaEkQA&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Friends+with+Benefits&stick=H4sIAAAAAAAAAOOQUeLSz9U3SDauKDcxMxJMK8pMzUspzsgsUMjNL8tMLY5iTslPP8XIq5-ub2iYk2NslGFWZXqKEUkTTDLDODfbwDgj6xQjJ0jS3LgsC64x2djIvCKjzAIqZ5SXkpwDk0sqK6uMN7DMgcqZlmRlWEAtMCosTDIyhkqYVKSbVP1iFHRDd-IiVlGomEJ5ZkmGglNqXmpaZknxLTZJBtOPrUxXinS-9dcfV7q1WfGBiEjYuVrTVb8Ao3rcGvgAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAF6BAhXEAM",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Friends+with+Benefits&safe=active&stick=H4sIAAAAAAAAAOOQUeLSz9U3SDauKDcxMxJMK8pMzUspzsgsUMjNL8tMLY5iTslPP8XIq5-ub2iYk2NslGFWZXqKEUkTTDLDODfbwDgj6xQjJ0jS3LgsC64x2djIvCKjzAIqZ5SXkpwDk0sqK6uMN7DMgcqZlmRlWEAtMCosTDIyhkqYVKSbVP1iFHRDd-IiVlGomEJ5ZkmGglNqXmpaZknxLTZJBtOPrUxXinS-9dcfV7q1WfGBiEjYuVrTVb8Ao3rcGvgAAAA"
+          },
+          {
+            "name": "Our Friend",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgPPLGRoSmuphMRAvPzVpnhpUb4zKqypF-vj02Q&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Our+Friend&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwwzs02MM7IMhJMK8pMzUspzsgsUMjNL8tMLY5iTslPP8UIUZeTY2yUYVZleoqRSz9X3yDZuKLcxAwmCTPkFCMnSNLcuCwLrjHZ2Mi8IqPMAipnlJeSnAOTSyorq4w3sMyBypmWZGVYQC0wKixMMjKGSphUpJtU_WIUdEN34iJWLv_SIgWI-C02SQbTj61MV4p0vvXXH1e6tVnxgYhI2Lla01W_AJCSx5fwAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAJ6BAhXEAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Our+Friend&safe=active&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwwzs02MM7IMhJMK8pMzUspzsgsUMjNL8tMLY5iTslPP8UIUZeTY2yUYVZleoqRSz9X3yDZuKLcxAwmCTPkFCMnSNLcuCwLrjHZ2Mi8IqPMAipnlJeSnAOTSyorq4w3sMyBypmWZGVYQC0wKixMMjKGSphUpJtU_WIUdEN34iJWLv_SIgWI-C02SQbTj61MV4p0vvXXH1e6tVnxgYhI2Lla01W_AJCSx5fwAAAA"
+          },
+          {
+            "name": "Me Without You",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-dBkGc0jCDjyoBG9XRk-96o2rfSgdB1DPDu8oQ&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Me+Without+You+(film)&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDcuy0o3EkwrykzNSynOyCxQyM0vy0wtjmJOyU8_xcirn65vaJiTY2yUYVZleoqRC6Qn2bii3MQMJplhnJttYJyRdYoRYSBMLtnYyLwio8wCKmeUl5KcA5NLKiurjDewzIHKmZZkZVhALTAqLEwyMoZKmFSkm1T9YhR0Q3fiIlZR31SF8MySjPzSEoXI_FIFjbTMnFzNW2ySDKYfW5muFOl8668_rnRrs-IDEZGwc7Wmq34BAC3Y_VH3AAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAN6BAhXEAU",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Me+Without+You+%28film%29&safe=active&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDcuy0o3EkwrykzNSynOyCxQyM0vy0wtjmJOyU8_xcirn65vaJiTY2yUYVZleoqRC6Qn2bii3MQMJplhnJttYJyRdYoRYSBMLtnYyLwio8wCKmeUl5KcA5NLKiurjDewzIHKmZZkZVhALTAqLEwyMoZKmFSkm1T9YhR0Q3fiIlZR31SF8MySjPzSEoXI_FIFjbTMnFzNW2ySDKYfW5muFOl8668_rnRrs-IDEZGwc7Wmq34BAC3Y_VH3AAAA"
+          },
+          {
+            "name": "The Upside",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-M6mdkBVSLxZe65zXnBmyQQbfKl25ETxBTIiRvQ&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=The+Upside&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2NjKvyCizMBJMK8pMzUspzsgsUMjNL8tMLY5iTslPP8UIUZeTY2yUYVZleoqRSz9X3yDZuKLcxAwmmWGcm21gnJF1ipETJGluXJYF1wizACpnlJeSnAOTSyorq4w3sMyBypmWZGVYQC0wKixMMjKGSphUpJtU_WIUdEN34iJWrpCMVIXQguLMlNRbbJIMph9bma4U6Xzrrz-udGuz4gMRkbBztaarfgEAdRNdoPAAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAR6BAhXEAY",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=The+Upside&safe=active&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2NjKvyCizMBJMK8pMzUspzsgsUMjNL8tMLY5iTslPP8UIUZeTY2yUYVZleoqRSz9X3yDZuKLcxAwmmWGcm21gnJF1ipETJGluXJYF1wizACpnlJeSnAOTSyorq4w3sMyBypmWZGVYQC0wKixMMjKGSphUpJtU_WIUdEN34iJWrpCMVIXQguLMlNRbbJIMph9bma4U6Xzrrz-udGuz4gMRkbBztaarfgEAdRNdoPAAAAA"
+          },
+          {
+            "name": "Beaches",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamRQzR0AxN1LpbdVAJ1rZPkaQtr42JK5d960HLA&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Beaches+1988&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMpLSc4xEkwrykzNSynOyCxQyM0vy0wtjmJOyU8_xcirn65vaJiTY2yUYVZleoqRC6Qn2bii3MQMJplhnJttYJyRdYoRbKC5cVkWXGOysZF5RUaZBVQObBlMLqmsrDLewDIHKmdakpVhAbXAqLAwycgYKmFSkW5S9YtR0A3diYtYeZxSE5MzUosVDC0tLG6xSTKYfmxlulKk862__rjSrc2KD0REws7Vmq76BQDS0XJv7gAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAV6BAhXEAc",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Beaches+1988&safe=active&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMpLSc4xEkwrykzNSynOyCxQyM0vy0wtjmJOyU8_xcirn65vaJiTY2yUYVZleoqRC6Qn2bii3MQMJplhnJttYJyRdYoRbKC5cVkWXGOysZF5RUaZBVQObBlMLqmsrDLewDIHKmdakpVhAbXAqLAwycgYKmFSkW5S9YtR0A3diYtYeZxSE5MzUosVDC0tLG6xSTKYfmxlulKk862__rjSrc2KD0REws7Vmq76BQDS0XJv7gAAAA"
+          }
+        ],
+        "see_more_link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Friendship+movies&stick=H4sIAAAAAAAAAOOQMRJMK8pMzUspzsgsUMjNL8tMLY5iTslPP8XIq5-ub2iYk2NslGFWZXqKkUs_V98g2bii3MQMJplhnJttYJyRdYqREyRpblyWBdeYbGxkXpFRZgGVM8pLSc6BySWVlVXGG1jmQOVMS7IyLKAWGBUWJhkZQyVMKtJNqn4xCrqhO3ERK6bYLTZJBtOPrUxXinS-9dcfV7q1WfGBiEjYuVrTVb8ATUGgFugAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ4qYDegQIVxAI",
+        "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Friendship+movies&safe=active&stick=H4sIAAAAAAAAAOOQMRJMK8pMzUspzsgsUMjNL8tMLY5iTslPP8XIq5-ub2iYk2NslGFWZXqKkUs_V98g2bii3MQMJplhnJttYJyRdYqREyRpblyWBdeYbGxkXpFRZgGVM8pLSc6BySWVlVXGG1jmQOVMS7IyLKAWGBUWJhkZQyVMKtJNqn4xCrqhO3ERK6bYLTZJBtOPrUxXinS-9dcfV7q1WfGBiEjYuVrTVb8ATUGgFugAAAA"
+      },
+      {
+        "title": "Dog movies",
+        "items": [
+          {
+            "name": "The Adam Project",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3b50tjva054khrxIa8oM2B9nX6bvtnYj_bzIwQ&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=The+Adam+Project&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMzJMEvPSysxM-JKyU9XyM0vy0wtjmIGsk8xoiqA8bOMDHIN47MtYPwM09zsgrxCIxg_zSTeuMQgtwzOzzawLKosLj7FyKWfq29gXJ5RWAJUzAnimFcWGBhCJTKMc8rjk6Eck3SjkpQkmBFJ5RlJFuUpOb8YuVzgjlzEKhCSkargmJKYqxBQlJ-Vmlxyi02SwfRjK1M5-_ZqU88zObuVV5YbM716vsfBwB8AJCTUI_EAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAB6BAhZEAI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=The+Adam+Project&safe=active&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMzJMEvPSysxM-JKyU9XyM0vy0wtjmIGsk8xoiqA8bOMDHIN47MtYPwM09zsgrxCIxg_zSTeuMQgtwzOzzawLKosLj7FyKWfq29gXJ5RWAJUzAnimFcWGBhCJTKMc8rjk6Eck3SjkpQkmBFJ5RlJFuUpOb8YuVzgjlzEKhCSkargmJKYqxBQlJ-Vmlxyi02SwfRjK1M5-_ZqU88zObuVV5YbM716vsfBwB8AJCTUI_EAAAA"
+          },
+          {
+            "name": "Marry Me",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNMPBWQSLDFjFV369vJAWWcS3wV4558hZIBwpjA&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Marry+Me&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwwzc0uyCs0MuJKyU9XyM0vy0wtjmIGsk8xQhTkZJil56WVmMH4WUYGuYbx2RYwPswAGD_NJN64xCC3DM7PNrAsqiwuPsXIpZ-rb2BcnlFYAlTMCeKYVxYYGEIlMoxzyuOToRyTdKOSlCSYEUnlGUkW5Sk5vxi5XOCOXMTK4ZtYVFSp4Jt6i02SwfRjK1M5-_ZqU88zObuVV5YbM716vsfBwB8AanX14ukAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAF6BAhZEAM",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Marry+Me&safe=active&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwwzc0uyCs0MuJKyU9XyM0vy0wtjmIGsk8xQhTkZJil56WVmMH4WUYGuYbx2RYwPswAGD_NJN64xCC3DM7PNrAsqiwuPsXIpZ-rb2BcnlFYAlTMCeKYVxYYGEIlMoxzyuOToRyTdKOSlCSYEUnlGUkW5Sk5vxi5XOCOXMTK4ZtYVFSp4Jt6i02SwfRjK1M5-_ZqU88zObuVV5YbM716vsfBwB8AanX14ukAAAA"
+          },
+          {
+            "name": "Dog Days",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb0dMV332aH9_4EeZq80BD7WEPfTFLZHq3kCj9rw&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Dog+Days+2018&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwziTcuMcgtM-JKyU9XyM0vy0wtjmIGsk8xQhTkZJil56WVmMH4WUYGuYbx2RYwfoZpbnZBXqERjA8zEM7PNrAsqiwuPsXIpZ-rb2BcnlFYAlTMCeKYVxYYGEIlMoxzyuOToRyTdKOSlCSYEUnlGUkW5Sk5vxi5XOCOXMTKC-K4JFYWKxgZGFrcYpNkMP3YylTOvr3a1PNMzm7lleXGTK-e73Ew8AcAw4ss7-4AAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAJ6BAhZEAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Dog+Days+2018&safe=active&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwziTcuMcgtM-JKyU9XyM0vy0wtjmIGsk8xQhTkZJil56WVmMH4WUYGuYbx2RYwfoZpbnZBXqERjA8zEM7PNrAsqiwuPsXIpZ-rb2BcnlFYAlTMCeKYVxYYGEIlMoxzyuOToRyTdKOSlCSYEUnlGUkW5Sk5vxi5XOCOXMTKC-K4JFYWKxgZGFrcYpNkMP3YylTOvr3a1PNMzm7lleXGTK-e73Ew8AcAw4ss7-4AAAA"
+          },
+          {
+            "name": "A Dog's Journey",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJrXxkuV6KRcwkwc0mhga-QnWO4ZkB-Oc0iLKAw&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=A+Dog%27s+Journey&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEzLNrAsqiwuNuJKyU9XyM0vy0wtjmIGsk8xQhTkZJil56WVmMH4WUYGuYbx2RYwfoZpbnZBXqERjJ9mEm9cYpBbBudDLTjFyKWfq29gXJ5RWAJUzAnimFcWGBhCJTKMc8rjk6Eck3SjkpQkmBFJ5RlJFuUpOb8YuVzgjlzEyu-oAOSqFyt45ZcW5aVW3mKTZDD92MpUzr692tTzTM5u5ZXlxkyvnu9xMPAHANMRLR_wAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAN6BAhZEAU",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=A+Dog%27s+Journey&safe=active&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEzLNrAsqiwuNuJKyU9XyM0vy0wtjmIGsk8xQhTkZJil56WVmMH4WUYGuYbx2RYwfoZpbnZBXqERjJ9mEm9cYpBbBudDLTjFyKWfq29gXJ5RWAJUzAnimFcWGBhCJTKMc8rjk6Eck3SjkpQkmBFJ5RlJFuUpOb8YuVzgjlzEyu-oAOSqFyt45ZcW5aVW3mKTZDD92MpUzr692tTzTM5u5ZXlxkyvnu9xMPAHANMRLR_wAAAA"
+          },
+          {
+            "name": "Hotel for Dogs",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1X44srPOkEktSxiH8LIDfEp1gLCKde6vZUh-uw&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Hotel+for+Dogs&stick=H4sIAAAAAAAAAOOQUeLSz9U3MC7PKCwxMuJKyU9XyM0vy0wtjmIGsk8x8uqn6xsa5mSYpeellZjB-FlGBrmG8dkWMH6GaW52QV6hEYyfZhJvXGKQWwbnZxtYFlUWF59iRLLtFCMniGNeWWBgCJXIMM4pj0-GckzSjUpSkmBGJJVnJFmUp-T8YuRygTtyESufR35Jao5CWn6RAlC4-BabJIPpx1amcvbt1aaeZ3J2K68sN2Z69XyPg4E_ACnYwRDsAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAR6BAhZEAY",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Hotel+for+Dogs&safe=active&stick=H4sIAAAAAAAAAOOQUeLSz9U3MC7PKCwxMuJKyU9XyM0vy0wtjmIGsk8x8uqn6xsa5mSYpeellZjB-FlGBrmG8dkWMH6GaW52QV6hEYyfZhJvXGKQWwbnZxtYFlUWF59iRLLtFCMniGNeWWBgCJXIMM4pj0-GckzSjUpSkmBGJJVnJFmUp-T8YuRygTtyESufR35Jao5CWn6RAlC4-BabJIPpx1amcvbt1aaeZ3J2K68sN2Z69XyPg4E_ACnYwRDsAAAA"
+          },
+          {
+            "name": "Eight Below",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlmuSJRkaEkwdTt_vLw_5v2fXnzqm7SElxEvSug&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Eight+Below&stick=H4sIAAAAAAAAAOOQUeLUz9U3MK8sMDA04krJT1fIzS_LTC2OYgayTzHy6qfrGxrmZJil56WVmMH4WUYGuYbx2RYwfoZpbnZBXqERjJ9mEm9cYpBbBudnG1gWVRYXn2LkAllmXJ5RWAJUjLAZKpFhnFMenwzlmKQblaQkwYxIKs9IsihPyfnFyOUCd-QiVm7XzPSMEgWn1Jz88ltskgymH1uZytm3V5t6nsnZrbyy3Jjp1fM9Dgb-ANxzgL_oAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAV6BAhZEAc",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Eight+Below&safe=active&stick=H4sIAAAAAAAAAOOQUeLUz9U3MK8sMDA04krJT1fIzS_LTC2OYgayTzHy6qfrGxrmZJil56WVmMH4WUYGuYbx2RYwfoZpbnZBXqERjJ9mEm9cYpBbBudnG1gWVRYXn2LkAllmXJ5RWAJUjLAZKpFhnFMenwzlmKQblaQkwYxIKs9IsihPyfnFyOUCd-QiVm7XzPSMEgWn1Jz88ltskgymH1uZytm3V5t6nsnZrbyy3Jjp1fM9Dgb-ANxzgL_oAAAA"
+          }
+        ],
+        "see_more_link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Dog+movies&stick=H4sIAAAAAAAAAOOQMeJKyU9XyM0vy0wtjmIGsk8x8uqn6xsa5mSYpeellZjB-FlGBrmG8dkWMH6GaW52QV6hEYyfZhJvXGKQWwbnZxtYFlUWF59i5NLP1TcwLs8oLAEq5gRxzCsLDAyhEhnGOeXxyVCOSbpRSUoSzIik8owki_KUnF-MXC5wRy5iReLcYpNkMP3YylTOvr3a1PNMzm7lleXGTK-e73Ew8AcApcA0utwAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ4qYDegQIWRAI",
+        "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Dog+movies&safe=active&stick=H4sIAAAAAAAAAOOQMeJKyU9XyM0vy0wtjmIGsk8x8uqn6xsa5mSYpeellZjB-FlGBrmG8dkWMH6GaW52QV6hEYyfZhJvXGKQWwbnZxtYFlUWF59i5NLP1TcwLs8oLAEq5gRxzCsLDAyhEhnGOeXxyVCOSbpRSUoSzIik8owki_KUnF-MXC5wRy5iReLcYpNkMP3YylTOvr3a1PNMzm7lleXGTK-e73Ew8AcApcA0utwAAAA"
+      },
+      {
+        "title": "Channing Tatum movies",
+        "items": [
+          {
+            "name": "White House Down",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyGv5wWo1hRN26Dlg_qtV-0B8oufcyYgZ3FtcwHg&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=White+House+Down&stick=H4sIAAAAAAAAAOOQUeLSz9U3yDNJyiksMhJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ihFJI5STVGhRklsO5aSbmiblVEA5pklGxSamUE5aobFxWTGUY1RkYmIOk8mzqEw3zoFyMsyM03MsoZyy-HJLw7xfjKLOMBeGILlwEatAeEZmSaqCR35pcaqCS3553i02SQbTj61MSX_ze112Nr8VvvIysOF5pChf3WFOAHRxhdv2AAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAB6BAhYEAI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=White+House+Down&safe=active&stick=H4sIAAAAAAAAAOOQUeLSz9U3yDNJyiksMhJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ihFJI5STVGhRklsO5aSbmiblVEA5pklGxSamUE5aobFxWTGUY1RkYmIOk8mzqEw3zoFyMsyM03MsoZyy-HJLw7xfjKLOMBeGILlwEatAeEZmSaqCR35pcaqCS3553i02SQbTj61MSX_ze112Nr8VvvIysOF5pChf3WFOAHRxhdv2AAAA"
+          },
+          {
+            "name": "The Son of No One",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4nOlfbXm7qVPvHwXsPe93axaSR4SM6TRNz7RY_w&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=The+Son+of+No+One&stick=H4sIAAAAAAAAAOOQUeLSz9U3SDc1TcqpMBJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ihGsMc8kKaewCMpJKrQoyS2HciBGQjmmSUbFJqZQTlqhsXFZMZRjVGRiYg6TybOoTDfOgXIyzIzTcyyhnLL4ckvDvF-Mos4wF4YguXARq2BIRqpCcH6eQn6agl--gn9e6i02SQbTj61MSX_ze112Nr8VvvIysOF5pChf3WFOAFDNKb33AAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAF6BAhYEAM",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=The+Son+of+No+One&safe=active&stick=H4sIAAAAAAAAAOOQUeLSz9U3SDc1TcqpMBJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ihGsMc8kKaewCMpJKrQoyS2HciBGQjmmSUbFJqZQTlqhsXFZMZRjVGRiYg6TybOoTDfOgXIyzIzTcyyhnLL4ckvDvF-Mos4wF4YguXARq2BIRqpCcH6eQn6agl--gn9e6i02SQbTj61MSX_ze112Nr8VvvIysOF5pChf3WFOAFDNKb33AAAA"
+          },
+          {
+            "name": "Fighting",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyyt5hOdk3Tz9HUDxzIkdVo5Ia_-AcldrokOWpZA&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Fighting+2009&stick=H4sIAAAAAAAAAOOQUeLSz9U3ME0yKjYxNRJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ihGsMc8kKaewCMpJKrQoyS2HctJNTZNyKqAciPlQTlqhsXFZMZRjVGRiYg6TybOoTDfOgXIyzIzTcyyhnLL4ckvDvF-Mos4wF4YguXARK69bZnpGCUjcyMDA8habJIPpx1ampL_5vS47m98KX3kZ2PA8UpSv7jAnAP02rmDzAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAJ6BAhYEAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Fighting+2009&safe=active&stick=H4sIAAAAAAAAAOOQUeLSz9U3ME0yKjYxNRJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ihGsMc8kKaewCMpJKrQoyS2HctJNTZNyKqAciPlQTlqhsXFZMZRjVGRiYg6TybOoTDfOgXIyzIzTcyyhnLL4ckvDvF-Mos4wF4YguXARK69bZnpGCUjcyMDA8habJIPpx1ampL_5vS47m98KX3kZ2PA8UpSv7jAnAP02rmDzAAAA"
+          },
+          {
+            "name": "10 Years",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-CWPEVlo4vQ-bNfs4_JDbTWTCXF4OHjekQrbZ_A&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=10+Years+2011&stick=H4sIAAAAAAAAAOOQUeLSz9U3SCs0Ni4rNhJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ihGsMc8kKaewCMpJKrQoyS2HctJNTZNyKqAc0ySjYhNTKAdiGZRjVGRiYg6TybOoTDfOgXIyzIzTcyyhnLL4ckvDvF-Mos4wF4YguXARK6-hgUJkamJRsYKRgaHhLTZJBtOPrUxJf_N7XXY2vxW-8jKw4XmkKF_dYU4AL0TbbPMAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAN6BAhYEAU",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=10+Years+2011&safe=active&stick=H4sIAAAAAAAAAOOQUeLSz9U3SCs0Ni4rNhJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ihGsMc8kKaewCMpJKrQoyS2HctJNTZNyKqAc0ySjYhNTKAdiGZRjVGRiYg6TybOoTDfOgXIyzIzTcyyhnLL4ckvDvF-Mos4wF4YguXARK6-hgUJkamJRsYKRgaHhLTZJBtOPrUxJf_N7XXY2vxW-8jKw4XmkKF_dYU4AL0TbbPMAAAA"
+          },
+          {
+            "name": "Step Up 2: The Streets",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPq4uRjxES74ibx3QxnLiBAstpuniRjsbiuqE9w&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Step+Up+2&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCoyMTE3NRJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ihGsMc8kKaewCMpJKrQoyS2HctJNTZNyKqAc0ySjYhNTKCet0Ni4rBjKgdgMM82iMt04B8rJMDNOz7GEcsriyy0N834xijrDXBiC5MJFrJzBJakFCqEFCka32CQZTD-2MiX9ze912dn8VvjKy8CG55GifHWHOQGo_1jf7wAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAR6BAhYEAY",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Step+Up+2&safe=active&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCoyMTE3NRJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ihGsMc8kKaewCMpJKrQoyS2HctJNTZNyKqAc0ySjYhNTKCet0Ni4rBjKgdgMM82iMt04B8rJMDNOz7GEcsriyy0N834xijrDXBiC5MJFrJzBJakFCqEFCka32CQZTD-2MiX9ze912dn8VvjKy8CG55GifHWHOQGo_1jf7wAAAA"
+          },
+          {
+            "name": "Foxcatcher",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiZzcntsr1uKCQ-RUJ94sk8zdplq-HirBq-l-BxQ&s=0",
+            "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Foxcatcher&stick=H4sIAAAAAAAAAOOQUeLSz9U3yLOoTDfOMRJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ihGi0SQpp7AIykkqtCjJLYdy0k1Nk3IqoBzTJKNiE1MoJ63Q2LisGMoxKjIxMYfJQJwB5WSYGafnWEI5ZfHlloZ5vxhFnWEuDEFy4SJWLrf8iuTEkuSM1KJbbJIMph9bmZL-5ve67Gx-K3zlZWDD80hRvrrDnADTvvCZ8AAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQs9oBKAV6BAhYEAc",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Foxcatcher&safe=active&stick=H4sIAAAAAAAAAOOQUeLSz9U3yLOoTDfOMRJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ihGi0SQpp7AIykkqtCjJLYdy0k1Nk3IqoBzTJKNiE1MoJ63Q2LisGMoxKjIxMYfJQJwB5WSYGafnWEI5ZfHlloZ5vxhFnWEuDEFy4SJWLrf8iuTEkuSM1KJbbJIMph9bmZL-5ve67Gx-K3zlZWDD80hRvrrDnADTvvCZ8AAAAA"
+          }
+        ],
+        "see_more_link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Channing+Tatum+movies&stick=H4sIAAAAAAAAAOOQMRJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ipFLP1ffIM8kKaewCMpJKrQoyS2HctJNTZNyKqAc0ySjYhNTKCet0Ni4rBjKMSoyMTGHyeRZVKYb50A5GWbG6TmWUE5ZfLmlYd4vRlFnmAtDkFy4iBW7-C02SQbTj61MSX_ze112Nr8VvvIysOF5pChf3WFOAPeafUnvAAAA&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ4qYDegQIWBAI",
+        "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=Channing+Tatum+movies&safe=active&stick=H4sIAAAAAAAAAOOQMRJNzkjMy8vMS1coSSwpzVXIzS_LTC2OYk7JTz_FyKufrm9oWBhvZGSZZ2h2ipFLP1ffIM8kKaewCMpJKrQoyS2HctJNTZNyKqAc0ySjYhNTKCet0Ni4rBjKMSoyMTGHyeRZVKYb50A5GWbG6TmWUE5ZfLmlYd4vRlFnmAtDkFy4iBW7-C02SQbTj61MSX_ze112Nr8VvvIysOF5pChf3WFOAPeafUnvAAAA"
+      }
+    ],
+    "top_stories": [
+      {
+        "title": "You be the judge: should my girlfriend's dog stop sleeping in our bed?",
+        "link": "https://www.theguardian.com/lifeandstyle/2022/jul/01/you-be-the-judge-should-my-girlfriends-dog-stop-sleeping-in-our-bed",
+        "source": "The Guardian",
+        "date": "17 hours ago",
+        "thumbnail": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/65581564eff62b450ad9d15918d410bf714366d9983e8d56.jpeg"
+      },
+      {
+        "title": "People left baffled over rare dog who looks just like a 'cat'",
+        "link": "https://www.mirror.co.uk/news/weird-news/rare-dog-who-looks-just-27376604",
+        "source": "The Mirror",
+        "date": "8 hours ago",
+        "thumbnail": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/65581564eff62b45db4c2aa37e914af8f08158a7a289f522.jpeg"
+      },
+      {
+        "title": "This man and his dog spent seven years walking around the world",
+        "link": "https://www.cnn.com/travel/article/this-man-and-his-dog-spent-seven-years-walking-around-the-world/index.html",
+        "source": "CNN",
+        "date": "14 hours ago",
+        "thumbnail": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/65581564eff62b452dde65354187b86ab3cc8ae9f001cd91.jpeg"
+      },
+      {
+        "title": "Ruff justice: Police force introduce stab vests for their dog after one was stabbed three times",
+        "link": "https://www.dailymail.co.uk/news/article-10974617/Ruff-justice-Police-force-introduce-stab-vests-dog-one-stabbed-three-times.html",
+        "source": "Daily Mail",
+        "date": "3 hours ago",
+        "thumbnail": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/65581564eff62b45c97338371dd83fc2d91b3fba5de2d992.jpeg"
+      }
+    ],
+    "top_stories_link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=dog&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQt8YBegQIFhAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active&tbm=nws",
+    "related_questions": [
+      {
+        "question": "Is dog a sad movie?",
+        "snippet": "While “Dog” is often funny, it's not a comedy. Though it's often sad, it's not a tragedy either. Instead, it's a sensitive, engaging, realistic look at what happens when a soldier's toughest battle starts when they come home. It's not the movie its marketing would have you believe it is.17 Feb 2022",
+        "title": "Channing Tatum film looks like a cute canine road movie. It's much better ...",
+        "link": "https://www.washingtonpost.com/goingoutguide/movies/dog-movie-review/2022/02/16/046ec56e-8f4a-11ec-a99e-2fbe37c65c5b_story.html",
+        "displayed_link": "https://www.washingtonpost.com › movies › 2022/02/16",
+        "next_page_token": "eyJvbnMiOiI2MjAiLCJmYyI6IkVxRUJDbUpCUVhSV2JHSkJaMjlHWTJWbVFVWkJOMGROVDNGak5IQnNUVzEzYVU0eWNXWlFObDlQUVU1V1ZuVm9VelZhYUZsM1duQmZUMkZNWkdaNFVtRldORU5MVUhreUxYRllXVGxQT1RaUU0ycFNUVkk1WlhkTmFYaEVOV3RWTXpGWGVXZFdRUklYTjBwaFgxbHdXRlpCTFdsNGNYUnpVSEp6ZFhNeVFUUWFJa0ZFVlhsRlIyVlJTbFY0VkhSSkxUbDJaRmx0ZGxoTllqbEhVSFJETm1KdlNYYyIsImZjdiI6IjMiLCJlaSI6IjdKYV9ZcFhWQS1peHF0c1Byc3VzMkE0IiwicWMiOiJDZ05rYjJjUUFIMlA3U1VfIiwicXVlc3Rpb24iOiJJcyBkb2cgYSBzYWQgbW92aWU/IiwibGsiOiJHaEpwY3lCa2IyY2dZU0J6WVdRZ2JXOTJhV1UiLCJicyI6ImMtT1M0QkwyTEZaSXlVOVhTRlFvVGt4UnlNMHZ5MHkxbDVoandDWEhKZW1SWDY2UW5KaW40S21RbmxvQ1ZKQldsSm9LVW1zdmNWS0dTNUNMSnp3anNRU3NOeVhmWHVLb09wYzhsMVI0UnFWQ1pqRlFMVWc0T1RFbkp6VUZ3ckdYZUNFbndBZ0EifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2MjAiLCJmYyI6IkVxRUJDbUpCUVhSV2JHSkJaMjlHWTJWbVFVWkJOMGROVDNGak5IQnNUVzEzYVU0eWNXWlFObDlQUVU1V1ZuVm9VelZhYUZsM1duQmZUMkZNWkdaNFVtRldORU5MVUhreUxYRllXVGxQT1RaUU0ycFNUVkk1WlhkTmFYaEVOV3RWTXpGWGVXZFdRUklYTjBwaFgxbHdXRlpCTFdsNGNYUnpVSEp6ZFhNeVFUUWFJa0ZFVlhsRlIyVlJTbFY0VkhSSkxUbDJaRmx0ZGxoTllqbEhVSFJETm1KdlNYYyIsImZjdiI6IjMiLCJlaSI6IjdKYV9ZcFhWQS1peHF0c1Byc3VzMkE0IiwicWMiOiJDZ05rYjJjUUFIMlA3U1VfIiwicXVlc3Rpb24iOiJJcyBkb2cgYSBzYWQgbW92aWU%2FIiwibGsiOiJHaEpwY3lCa2IyY2dZU0J6WVdRZ2JXOTJhV1UiLCJicyI6ImMtT1M0QkwyTEZaSXlVOVhTRlFvVGt4UnlNMHZ5MHkxbDVoandDWEhKZW1SWDY2UW5KaW40S21RbmxvQ1ZKQldsSm9LVW1zdmNWS0dTNUNMSnp3anNRU3NOeVhmWHVLb09wYzhsMVI0UnFWQ1pqRlFMVWc0T1RFbkp6VUZ3ckdYZUNFbndBZ0EifQ%3D%3D"
+      },
+      {
+        "question": "How can I get a free dog?",
+        "snippet": "Yes, you can technically get free puppies Keep an eye out for adoption-fee free events at your local shelters. This is the most responsible way to go about getting free puppies. You can also ask your friends, coworkers and general acquaintances to keep their ears to the ground for you.",
+        "title": "Where Can I Get Free Puppies | Free Dogs - Dogster",
+        "link": "https://www.dogster.com/puppies/where-can-i-get-free-puppies",
+        "displayed_link": "https://www.dogster.com › puppies › where-can-i-get-free...",
+        "next_page_token": "eyJvbnMiOiI2MjAiLCJmYyI6IkVxRUJDbUpCUVhSV2JHSkJaMjlHWTJWbVFVWkJOMGROVDNGak5IQnNUVzEzYVU0eWNXWlFObDlQUVU1V1ZuVm9VelZhYUZsM1duQmZUMkZNWkdaNFVtRldORU5MVUhreUxYRllXVGxQT1RaUU0ycFNUVkk1WlhkTmFYaEVOV3RWTXpGWGVXZFdRUklYTjBwaFgxbHdXRlpCTFdsNGNYUnpVSEp6ZFhNeVFUUWFJa0ZFVlhsRlIyVlJTbFY0VkhSSkxUbDJaRmx0ZGxoTllqbEhVSFJETm1KdlNYYyIsImZjdiI6IjMiLCJlaSI6IjdKYV9ZcFhWQS1peHF0c1Byc3VzMkE0IiwicWMiOiJDZ05rYjJjUUFIMlA3U1VfIiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgZ2V0IGEgZnJlZSBkb2c/IiwibGsiOiJHaFZvYjNjZ2RHOGdaMlYwSUdFZ1puSmxaU0JrYjJjIiwiYnMiOiJjLU9TNEJMMkxGWkl5VTlYU0ZRb1RreFJ5TTB2eTB5MWw1aGp3Q1hISmVtUlg2NlFuSmluNEttUW5sb0NWSkJXbEpvS1Vtc3ZjVktHUzVDTEp6d2pzUVNzTnlYZlh1S29PcGM4bDFSNFJxVkNaakZRTFVnNE9URW5KelVGd3JHWGVDRW53QWdBIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2MjAiLCJmYyI6IkVxRUJDbUpCUVhSV2JHSkJaMjlHWTJWbVFVWkJOMGROVDNGak5IQnNUVzEzYVU0eWNXWlFObDlQUVU1V1ZuVm9VelZhYUZsM1duQmZUMkZNWkdaNFVtRldORU5MVUhreUxYRllXVGxQT1RaUU0ycFNUVkk1WlhkTmFYaEVOV3RWTXpGWGVXZFdRUklYTjBwaFgxbHdXRlpCTFdsNGNYUnpVSEp6ZFhNeVFUUWFJa0ZFVlhsRlIyVlJTbFY0VkhSSkxUbDJaRmx0ZGxoTllqbEhVSFJETm1KdlNYYyIsImZjdiI6IjMiLCJlaSI6IjdKYV9ZcFhWQS1peHF0c1Byc3VzMkE0IiwicWMiOiJDZ05rYjJjUUFIMlA3U1VfIiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgZ2V0IGEgZnJlZSBkb2c%2FIiwibGsiOiJHaFZvYjNjZ2RHOGdaMlYwSUdFZ1puSmxaU0JrYjJjIiwiYnMiOiJjLU9TNEJMMkxGWkl5VTlYU0ZRb1RreFJ5TTB2eTB5MWw1aGp3Q1hISmVtUlg2NlFuSmluNEttUW5sb0NWSkJXbEpvS1Vtc3ZjVktHUzVDTEp6d2pzUVNzTnlYZlh1S29PcGM4bDFSNFJxVkNaakZRTFVnNE9URW5KelVGd3JHWGVDRW53QWdBIn0%3D"
+      },
+      {
+        "question": "What dog do?",
+        "snippet": "They perform many roles for humans, such as hunting, herding, pulling loads, protection, assisting police and the military, companionship, therapy, and aiding disabled people.",
+        "title": "Dog - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Dog",
+        "displayed_link": "https://en.wikipedia.org › wiki › Dog",
+        "next_page_token": "eyJvbnMiOiI2MjAiLCJmYyI6IkVxRUJDbUpCUVhSV2JHSkJaMjlHWTJWbVFVWkJOMGROVDNGak5IQnNUVzEzYVU0eWNXWlFObDlQUVU1V1ZuVm9VelZhYUZsM1duQmZUMkZNWkdaNFVtRldORU5MVUhreUxYRllXVGxQT1RaUU0ycFNUVkk1WlhkTmFYaEVOV3RWTXpGWGVXZFdRUklYTjBwaFgxbHdXRlpCTFdsNGNYUnpVSEp6ZFhNeVFUUWFJa0ZFVlhsRlIyVlJTbFY0VkhSSkxUbDJaRmx0ZGxoTllqbEhVSFJETm1KdlNYYyIsImZjdiI6IjMiLCJlaSI6IjdKYV9ZcFhWQS1peHF0c1Byc3VzMkE0IiwicWMiOiJDZ05rYjJjUUFIMlA3U1VfIiwicXVlc3Rpb24iOiJXaGF0IGRvZyBkbz8iLCJsayI6IkdndDNhR0YwSUdSdlp5QmtidyIsImJzIjoiYy1PUzRCTDJMRlpJeVU5WFNGUW9Ua3hSeU0wdnkweTFsNWhqd0NYSEplbVJYNjZRbkppbjRLbVFubG9DVkpCV2xKb0tVbXN2Y1ZLR1M1Q0xKendqc1FTc055WGZYdUtvT3BjOGwxUjRScVZDWmpGUUxVZzRPVEVuSnpVRndyR1hlQ0Vud0FnQSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2MjAiLCJmYyI6IkVxRUJDbUpCUVhSV2JHSkJaMjlHWTJWbVFVWkJOMGROVDNGak5IQnNUVzEzYVU0eWNXWlFObDlQUVU1V1ZuVm9VelZhYUZsM1duQmZUMkZNWkdaNFVtRldORU5MVUhreUxYRllXVGxQT1RaUU0ycFNUVkk1WlhkTmFYaEVOV3RWTXpGWGVXZFdRUklYTjBwaFgxbHdXRlpCTFdsNGNYUnpVSEp6ZFhNeVFUUWFJa0ZFVlhsRlIyVlJTbFY0VkhSSkxUbDJaRmx0ZGxoTllqbEhVSFJETm1KdlNYYyIsImZjdiI6IjMiLCJlaSI6IjdKYV9ZcFhWQS1peHF0c1Byc3VzMkE0IiwicWMiOiJDZ05rYjJjUUFIMlA3U1VfIiwicXVlc3Rpb24iOiJXaGF0IGRvZyBkbz8iLCJsayI6IkdndDNhR0YwSUdSdlp5QmtidyIsImJzIjoiYy1PUzRCTDJMRlpJeVU5WFNGUW9Ua3hSeU0wdnkweTFsNWhqd0NYSEplbVJYNjZRbkppbjRLbVFubG9DVkpCV2xKb0tVbXN2Y1ZLR1M1Q0xKendqc1FTc055WGZYdUtvT3BjOGwxUjRScVZDWmpGUUxVZzRPVEVuSnpVRndyR1hlQ0Vud0FnQSJ9"
+      },
+      {
+        "question": "Why is a dog called a dog?",
+        "snippet": "The history of dog About seven centuries ago, the word hound, which came from the Old English hund, was the word for all domestic canines. Dog was just used to refer to a subgroup of hounds that includes the lovely but frequently slobbering mastiff.19 Oct 2010",
+        "title": "Why Is “Dog” One Of The Great Mysteries Of The English Language?",
+        "link": "https://www.dictionary.com/e/dog/",
+        "displayed_link": "https://www.dictionary.com › dog",
+        "next_page_token": "eyJvbnMiOiI2MjAiLCJmYyI6IkVxRUJDbUpCUVhSV2JHSkJaMjlHWTJWbVFVWkJOMGROVDNGak5IQnNUVzEzYVU0eWNXWlFObDlQUVU1V1ZuVm9VelZhYUZsM1duQmZUMkZNWkdaNFVtRldORU5MVUhreUxYRllXVGxQT1RaUU0ycFNUVkk1WlhkTmFYaEVOV3RWTXpGWGVXZFdRUklYTjBwaFgxbHdXRlpCTFdsNGNYUnpVSEp6ZFhNeVFUUWFJa0ZFVlhsRlIyVlJTbFY0VkhSSkxUbDJaRmx0ZGxoTllqbEhVSFJETm1KdlNYYyIsImZjdiI6IjMiLCJlaSI6IjdKYV9ZcFhWQS1peHF0c1Byc3VzMkE0IiwicWMiOiJDZ05rYjJjUUFIMlA3U1VfIiwicXVlc3Rpb24iOiJXaHkgaXMgYSBkb2cgY2FsbGVkIGEgZG9nPyIsImxrIjoiYzVPU0xNLW9WTWdzVmtoVVNNbFBWMGhPek1sSlRZRndBQSIsImJzIjoiYy1PUzRCTDJMRlpJeVU5WFNGUW9Ua3hSeU0wdnkweTFsNWhqd0NYSEplbVJYNjZRbkppbjRLbVFubG9DVkpCV2xKb0tVbXN2Y1ZLR1M1Q0xKendqc1FTc055WGZYdUtvT3BjOGwxUjRScVZDWmpGUUxVZzRPVEVuSnpVRndyR1hlQ0Vud0FnQSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2MjAiLCJmYyI6IkVxRUJDbUpCUVhSV2JHSkJaMjlHWTJWbVFVWkJOMGROVDNGak5IQnNUVzEzYVU0eWNXWlFObDlQUVU1V1ZuVm9VelZhYUZsM1duQmZUMkZNWkdaNFVtRldORU5MVUhreUxYRllXVGxQT1RaUU0ycFNUVkk1WlhkTmFYaEVOV3RWTXpGWGVXZFdRUklYTjBwaFgxbHdXRlpCTFdsNGNYUnpVSEp6ZFhNeVFUUWFJa0ZFVlhsRlIyVlJTbFY0VkhSSkxUbDJaRmx0ZGxoTllqbEhVSFJETm1KdlNYYyIsImZjdiI6IjMiLCJlaSI6IjdKYV9ZcFhWQS1peHF0c1Byc3VzMkE0IiwicWMiOiJDZ05rYjJjUUFIMlA3U1VfIiwicXVlc3Rpb24iOiJXaHkgaXMgYSBkb2cgY2FsbGVkIGEgZG9nPyIsImxrIjoiYzVPU0xNLW9WTWdzVmtoVVNNbFBWMGhPek1sSlRZRndBQSIsImJzIjoiYy1PUzRCTDJMRlpJeVU5WFNGUW9Ua3hSeU0wdnkweTFsNWhqd0NYSEplbVJYNjZRbkppbjRLbVFubG9DVkpCV2xKb0tVbXN2Y1ZLR1M1Q0xKendqc1FTc055WGZYdUtvT3BjOGwxUjRScVZDWmpGUUxVZzRPVEVuSnpVRndyR1hlQ0Vud0FnQSJ9"
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Dog (2022) - IMDb",
+        "link": "https://www.imdb.com/title/tt11252248/",
+        "displayed_link": "https://www.imdb.com › title",
+        "thumbnail": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/206a8edcb097ddf64fc7c5ee9aab62ec42737217056bbf65d93b255be26d2bc4.jpeg",
+        "snippet": "Two former Army Rangers are paired against their will on the road trip of a lifetime. Briggs (Channing Tatum) and Lulu (a Belgian Malinois) race down the ...",
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 6.5,
+              "votes": 22967
+            },
+            "extensions": [
+              "Rating: 6.5/10",
+              "‎22,967 votes"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "IMDb is an online database of information related to films, television series, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews.",
+            "icon": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/206a8edcb097ddf64fc7c5ee9aab62ec0f741c2da7738eeba38975c5a6be13b5d475b0ae85e474157d0980ffd584b315.png"
+          }
+        },
+        "about_page_link": "https://www.google.co.uk/search?q=About+https://www.imdb.com/title/tt11252248/&tbm=ilp&ilps=ADNMCi3E4ZZn-UIXu3E93cCsNAcnspZiJA",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0IfTS6EwTNwJ:https://www.imdb.com/title/tt11252248/+&cd=28&hl=en&ct=clnk&gl=uk"
+      },
+      {
+        "position": 2,
+        "title": "Dog - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Dog",
+        "displayed_link": "https://en.wikipedia.org › wiki › Dog",
+        "snippet": "The dog or domestic dog (Canis familiaris or Canis lupus familiaris) is a domesticated descendant of the wolf, and is characterized by an upturning tail.",
+        "snippet_highlighted_words": [
+          "dog",
+          "dog"
+        ],
+        "rich_snippet": {
+          "bottom": {
+            "extensions": [
+              "Species: C. familiaris",
+              "Kingdom: Animalia",
+              "Genus: Canis",
+              "Order: Carnivora",
+              "Budget: $15 million",
+              "Produced by: Gregory Jacobs; ‎Channing Tatum‎; ...‎",
+              "Box office: $84.4 million",
+              "Story by: Reid Carolin; Brett Rodriguez‎"
+            ],
+            "detected_extensions": {
+              "price": 84.4,
+              "currency": "Box office $ million"
+            }
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+            "icon": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/206a8edcb097ddf64fc7c5ee9aab62ec2b3c8941ea8f188a2c36b63de998c2316202b62d49da8901b50e90e0f5181991.png"
+          }
+        },
+        "about_page_link": "https://www.google.co.uk/search?q=About+https://en.wikipedia.org/wiki/Dog&tbm=ilp&ilps=ADNMCi1nuc641wvuOwN01oHs6qztf8_Q6w",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:89sj26s1rYUJ:https://en.wikipedia.org/wiki/Dog+&cd=29&hl=en&ct=clnk&gl=uk",
+        "related_pages_link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=related:https://en.wikipedia.org/wiki/Dog+dog",
+        "related_results": [
+          {
+            "position": 1,
+            "title": "Dog (2022 film) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Dog_(2022_film)",
+            "displayed_link": "https://en.wikipedia.org › wiki › Dog_(2022_film)",
+            "snippet": "Dog is a 2022 American comedy drama road film directed by Channing Tatum and Reid Carolin, both making their respective film directorial debuts, based on a ...",
+            "snippet_highlighted_words": [
+              "Dog"
+            ],
+            "rich_snippet": {
+              "bottom": {
+                "detected_extensions": {
+                  "price": 84.4,
+                  "currency": "Box office $ million"
+                },
+                "extensions": [
+                  "Budget: $15 million",
+                  "Produced by: Gregory Jacobs; ‎Channing Tatum‎; ...‎",
+                  "Box office: $84.4 million",
+                  "Story by: Reid Carolin; Brett Rodriguez‎"
+                ]
+              }
+            },
+            "about_this_result": {
+              "source": {
+                "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                "icon": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/206a8edcb097ddf64fc7c5ee9aab62ec887ca82b1e7267f3508cf1476600f0c440070c12c0fa0e20e4c85de0215762e9ed8d4e7b5c3c0fcdd0a1a41bbb8456e1dde4d4468bc00fee.png"
+              }
+            },
+            "about_page_link": "https://www.google.co.uk/search?q=About+https://en.wikipedia.org/wiki/Dog_(2022_film)&tbm=ilp&ilps=ADNMCi1rx6dvnQ_BeqM-JiZeudHAL0VntQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zeYPbKuNIN4J:https://en.wikipedia.org/wiki/Dog_(2022_film)+&cd=30&hl=en&ct=clnk&gl=uk"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "Dog | Official Website | February 18 2022",
+        "link": "https://www.unitedartistsreleasing.com/dog/",
+        "displayed_link": "https://www.unitedartistsreleasing.com › dog",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4iHKbHYTxECI-2e7aw4A3XHg39tius4hLetyBMmOZVX8c6uJJWorc&usqp=CAE&s",
+        "snippet": "Watch the trailer, find screenings & book tickets for Dog on the official site. In theaters February 18 2022 brought to you by United Artists Releasing.",
+        "snippet_highlighted_words": [
+          "Dog"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "United Artists Corporation, currently doing business as United Artists Digital Studios, is an American digital production company. Founded in 1919 by D. W.",
+            "icon": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/206a8edcb097ddf64fc7c5ee9aab62ecd2c917d213587fa7c579d28a909dc7fd1f8dc4322667af0cacb7ad2da5130846.png"
+          }
+        },
+        "about_page_link": "https://www.google.co.uk/search?q=About+https://www.unitedartistsreleasing.com/dog/&tbm=ilp&ilps=ADNMCi04kLGXwdjAgeVvAvcv_e3Zkhm7GA",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qxp5rJv4jPIJ:https://www.unitedartistsreleasing.com/dog/+&cd=34&hl=en&ct=clnk&gl=uk"
+      },
+      {
+        "position": 4,
+        "title": "Dog Breeds - Types Of Dogs - American Kennel Club",
+        "link": "https://www.akc.org/dog-breeds/",
+        "displayed_link": "https://www.akc.org › Dog Breeds",
+        "date": "8 Jun 2022",
+        "snippet": "What's a dog breed? People have been breeding dogs since prehistoric times. The earliest dog breeders used wolves to create domestic dogs.",
+        "snippet_highlighted_words": [
+          "dog",
+          "dogs",
+          "dog",
+          "dogs"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The American Kennel Club is a registry of purebred dog pedigrees in the United States. In addition to maintaining its pedigree registry, this kennel club also promotes and sanctions events for purebred ...",
+            "icon": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/206a8edcb097ddf64fc7c5ee9aab62ec4660b23300a44ba0f579aa27d00dd2f9a54349e89a39904888c47966105d3bbd.png"
+          }
+        },
+        "about_page_link": "https://www.google.co.uk/search?q=About+https://www.akc.org/dog-breeds/&tbm=ilp&ilps=ADNMCi0jZeZyHEL1CluiZKZAAjV6otCEsw",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5GViT37xTNoJ:https://www.akc.org/dog-breeds/+&cd=35&hl=en&ct=clnk&gl=uk"
+      },
+      {
+        "position": 5,
+        "title": "Dog - Rotten Tomatoes",
+        "link": "https://www.rottentomatoes.com/m/dog_2022",
+        "displayed_link": "https://www.rottentomatoes.com › dog_2022",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PZZhHRVm-sBqMazpOBbzFMhjBiLZ8d5eBEkSqpzCyVsICUYDxpNP&usqp=CAE&s",
+        "snippet": "DOG is a buddy comedy that follows the misadventures of two former Army Rangers paired against their will on the road trip of a lifetime.",
+        "snippet_highlighted_words": [
+          "DOG"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 77,
+              "votes": 152
+            },
+            "extensions": [
+              "Rating: 77%",
+              "‎152 votes"
+            ]
+          },
+          "bottom": {
+            "extensions": [
+              "Genre: Comedy",
+              "Box Office (Gross USA): $61.8M",
+              "Release Date (Theaters): Feb 18, 2022 wide"
+            ],
+            "detected_extensions": {
+              "box_office_gross_usa_m": 61.8,
+              "release_date_theaters_feb_wide": 18
+            }
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Rotten Tomatoes is an American review-aggregation website for film and television. The company was launched in August 1998 by three undergraduate students at the University of California, Berkeley: Senh Duong, Patrick Y. Lee, and Stephen Wang.",
+            "icon": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/206a8edcb097ddf64fc7c5ee9aab62ec80c51380bf50c537dcaced97f144fc3fa2df05795ee04bedbd7f2cae27b575d2.png"
+          }
+        },
+        "about_page_link": "https://www.google.co.uk/search?q=About+https://www.rottentomatoes.com/m/dog_2022&tbm=ilp&ilps=ADNMCi2Js5HsAlSrNv8v3MTxG6MxFQATYA",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hrImAnTyQaQJ:https://www.rottentomatoes.com/m/dog_2022+&cd=36&hl=en&ct=clnk&gl=uk"
+      },
+      {
+        "position": 6,
+        "title": "Dog, facts and photos - National Geographic",
+        "link": "https://www.nationalgeographic.com/animals/mammals/facts/domestic-dog",
+        "displayed_link": "https://www.nationalgeographic.com › domestic-dog",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs_t1DLA157p-Yxbcrnd18RQCBv1gygjzEZFMuQ1OgrCKk0lyXrtbT&usqp=CAE&s",
+        "snippet": "Domestic dogs are mostly kept as pets, though many breeds are capable of surviving on their own, whether it's in a forest or on city streets. A third of all ...",
+        "snippet_highlighted_words": [
+          "dogs"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "National Geographic is a popular American monthly magazine published by the National Geographic Society. Known for its photojournalism, it is one of the most widely read magazines of all time.",
+            "icon": "https://serpapi.com/searches/62bf96eb2c6878f70b151771/images/206a8edcb097ddf64fc7c5ee9aab62ec8393de99dae8430f92b85500401d735b1da96382995bf46cbdc98220736c6381.png"
+          }
+        },
+        "about_page_link": "https://www.google.co.uk/search?q=About+https://www.nationalgeographic.com/animals/mammals/facts/domestic-dog&tbm=ilp&ilps=ADNMCi3ZMVDhFHwstoh7-pp-WWpZEy4Ijg",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VGirYKV8sLkJ:https://www.nationalgeographic.com/animals/mammals/facts/domestic-dog+&cd=37&hl=en&ct=clnk&gl=uk"
+      }
+    ],
+    "related_searches": [
+      {
+        "query": "dog drawing",
+        "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Dog+drawing&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ1QJ6BAhkEAE"
+      },
+      {
+        "query": "dog movie",
+        "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Dog+movie&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ1QJ6BAhmEAE"
+      },
+      {
+        "query": "dog breeds",
+        "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Dog+breeds&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ1QJ6BAhoEAE"
+      },
+      {
+        "query": "dog cute",
+        "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Dog+cute&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ1QJ6BAhpEAE"
+      },
+      {
+        "query": "dog meaning",
+        "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Dog+meaning&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ1QJ6BAhsEAE"
+      },
+      {
+        "query": "dog cartoon",
+        "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Dog+cartoon&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ1QJ6BAhfEAE"
+      },
+      {
+        "query": "dog pictures",
+        "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Dog+pictures&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ1QJ6BAhiEAE"
+      },
+      {
+        "query": "dog trailer",
+        "link": "https://www.google.co.uk/search?safe=active&ucbcb=1&gl=uk&hl=en&q=Dog+trailer&sa=X&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ1QJ6BAhgEAE"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.co.uk/search?q=dog&safe=active&ucbcb=1&gl=uk&hl=en&ei=7Ja_YpXVA-ixqtsPrsus2A4&start=10&sa=N&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ8NMDegQIAhBQ",
+      "other_pages": {
+        "2": "https://www.google.co.uk/search?q=dog&safe=active&ucbcb=1&gl=uk&hl=en&ei=7Ja_YpXVA-ixqtsPrsus2A4&start=10&sa=N&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ8tMDegQIAhA-",
+        "3": "https://www.google.co.uk/search?q=dog&safe=active&ucbcb=1&gl=uk&hl=en&ei=7Ja_YpXVA-ixqtsPrsus2A4&start=20&sa=N&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ8tMDegQIAhBA",
+        "4": "https://www.google.co.uk/search?q=dog&safe=active&ucbcb=1&gl=uk&hl=en&ei=7Ja_YpXVA-ixqtsPrsus2A4&start=30&sa=N&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ8tMDegQIAhBC",
+        "5": "https://www.google.co.uk/search?q=dog&safe=active&ucbcb=1&gl=uk&hl=en&ei=7Ja_YpXVA-ixqtsPrsus2A4&start=40&sa=N&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ8tMDegQIAhBE",
+        "6": "https://www.google.co.uk/search?q=dog&safe=active&ucbcb=1&gl=uk&hl=en&ei=7Ja_YpXVA-ixqtsPrsus2A4&start=50&sa=N&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ8tMDegQIAhBG",
+        "7": "https://www.google.co.uk/search?q=dog&safe=active&ucbcb=1&gl=uk&hl=en&ei=7Ja_YpXVA-ixqtsPrsus2A4&start=60&sa=N&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ8tMDegQIAhBI",
+        "8": "https://www.google.co.uk/search?q=dog&safe=active&ucbcb=1&gl=uk&hl=en&ei=7Ja_YpXVA-ixqtsPrsus2A4&start=70&sa=N&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ8tMDegQIAhBK",
+        "9": "https://www.google.co.uk/search?q=dog&safe=active&ucbcb=1&gl=uk&hl=en&ei=7Ja_YpXVA-ixqtsPrsus2A4&start=80&sa=N&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ8tMDegQIAhBM",
+        "10": "https://www.google.co.uk/search?q=dog&safe=active&ucbcb=1&gl=uk&hl=en&ei=7Ja_YpXVA-ixqtsPrsus2A4&start=90&sa=N&ved=2ahUKEwiV-43l_tj4AhXomGoFHa4lC-sQ8tMDegQIAhBO"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=Greater+London%2C+England%2C+United+Kingdom&q=dog&safe=active&start=90"
+      }
+    }
+  }
